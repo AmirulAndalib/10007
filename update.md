@@ -24,3 +24,9 @@
 w1.gskwai.com
 w2.gskwai.com
 ```
+- v183
+> 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
+```
+127.0.0.1 black.qimo.ink
+```
+> 缓存→`/storage/emulated/0/Android/data/tv.danmaku.bilibilihd/download` 移动到任意位置→设置→备份→清除数据→把`download`文件夹移动到`/storage/emulated/0/Android/data/tv.danmaku.bilibilihd/download`→设置所有者和文件夹权限777→重启→恢复。
