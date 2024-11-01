@@ -15,18 +15,12 @@
  >> `配置.conf`(配置.prop) 在刷入前可以用 **[mt文件管理器](https://binmt.lanzoui.com/b01bivkzc)** 修改来自定义模块的一些功能。
 
 
-- v179
-> 去除`快对`广告。
-> 感谢酷安@Aloazny提供的规则。
-- v182
-> 添加了部分快手广告sdk拦截，不知道是否有副作用。
-```
-w1.gskwai.com
-w2.gskwai.com
-```
 - v183
 > 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
 ```
 127.0.0.1 black.qimo.ink
 ```
-> 缓存→`/storage/emulated/0/Android/data/tv.danmaku.bilibilihd/download` 移动到任意位置→设置→备份→清除数据→把`download`文件夹移动到`/storage/emulated/0/Android/data/tv.danmaku.bilibilihd/download`→设置所有者和文件夹权限777→重启→恢复。
+- v184
+> 域名`a0.app.xiaomi.com`改为iptables禁用
+> 可用Magisk alpha的`action.sh`，选择放行或者禁用。
+> 该域名影响**MIUI云备份以及会上传应用列表给MIUI**。
