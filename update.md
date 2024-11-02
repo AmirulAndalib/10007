@@ -21,6 +21,9 @@
 127.0.0.1 black.qimo.ink
 ```
 - v184
-> 域名`a0.app.xiaomi.com`改为iptables禁用
-> 可用Magisk alpha的`action.sh`，选择放行或者禁用。
-> 该域名影响**MIUI云备份以及会上传应用列表给MIUI**。
+> ①域名`a0.app.xiaomi.com`改为iptables禁用
+> ②可用Magisk alpha的`action.sh`，选择放行或者禁用。
+> ③该域名影响MIUI云备份以及会上传应用列表给MIUI。
+- v185
+> ①修复上个版本的`action.sh`代码写反的问题(理解下老年人……
+> ②广告奖励也改为`iptables`放行和禁用，用action也可执行。

@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: foCcKTUBCXODHxvX2HHvjA
+! Checksum: gHscWNVVHPZrM+lYHtYlXg
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-10-31 16:47:02
+! Last modified: 2024-11-02 11:43:01
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-31 16:46:10 ^
-!规则数量:26676^
+!更新时间: 2024-11-02 11:42:36 ^
+!规则数量:26666^
 !GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
 !Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
 !GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
@@ -334,6 +334,17 @@
 ! 百度手机广告
 @@||ecmb.bdimg.com^$document
 @@||ecma.bdimg.com^$document
+! 百度手机输入法
+@@||udpolimenew.baidu.com^$document
+@@||mime.baidu.com^$document
+#淘宝
+@@||amdc.m.taobao.com^$document
+@@||click.mz.simba.taobao.com^$document
+@@||s.click.taobao.com^$document
+@@||eco.taobao.com^$document
+@@||err.taobao.com^$document
+@@||tunion-api.m.taobao.com^$document
+@@||zconfig.alibabausercontent.com^$document
 
 
 ! 添加一些规则
@@ -1004,7 +1015,6 @@
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
 ||accountant.trade2022.quest^
-||accounts-google.shop^
 ||accounts.doubleclick.net^
 ||accounts.winniing.click^
 ||accscdn.m.taobao.com^
@@ -1643,6 +1653,7 @@
 ||ad.insight.a-i-ad.com^
 ||ad.insightexpress.com^
 ||ad.insightexpressai.com^
+||ad.inston.ltd^
 ||ad.inter-edu.com^
 ||ad.internetradioinc.com^
 ||ad.interreklame.de^
@@ -3103,6 +3114,7 @@
 ||ads.beliefnet.com^
 ||ads.belointeractive.com^
 ||ads.betfair.com^
+||ads.bethard.com^
 ||ads.betsafe.com^
 ||ads.betweendigital.com^
 ||ads.bfast.com^
@@ -7033,7 +7045,6 @@
 ||ambitnykanal.click^
 ||ambrkx.click^
 ||amc.yandex.ru^
-||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||amer.rel.msn.com^
 ||americadebus.click^
@@ -9364,7 +9375,6 @@
 ||appsoft.click^
 ||appvast.adsafeprotected.com^
 ||appwall.api.airpush.com^
-||aprovechaoportunidad2.reservaplataformoct.top^
 ||apx.moatads.com^
 ||aqua-adserver.com^
 ||aquaflowcam.click^
@@ -10242,7 +10252,6 @@
 ||br.com.tapps.analytics.s3.amazonaws.com^
 ||br.kcdn.kz^
 ||br.ladsp.jp^
-||bradscorecompensascliente.programarecompensas.site^
 ||brainadv.g2afse.com^
 ||brainadv.offerstrack.net^
 ||brainlyads.com^
@@ -10831,6 +10840,7 @@
 ||centro.pixel.ad^
 ||centrumkamera.click^
 ||ceramicvase.click^
+||certificado26.webnode.cr^
 ||cf-ad.ad-stir.com^
 ||cf-ads.pinger.com^
 ||cf-cdn.adventori.com^
@@ -11251,7 +11261,6 @@
 ||click.moneyoffer.pro^
 ||click.moselo.com^
 ||click.mrrage.com^
-||click.mz.simba.taobao.com^
 ||click.nativclick.com^
 ||click.news.roomandboard.com^
 ||click.news.vans.com^
@@ -11607,6 +11616,7 @@
 ||corebug.adsame.com^
 ||corp-downloads.com^
 ||corp-github.com^
+||corp-karmine.com^
 ||corp-sg.com^
 ||corp.eulerian.com^
 ||corp.eulerian.eu^
@@ -12512,6 +12522,7 @@
 ||download.createyournextcustomer.com^
 ||download.dackinc.com^
 ||download.dnv.com^
+||download.ebnays.xyz^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -12904,7 +12915,6 @@
 ||ecn-analytics-nssl.emc.com^
 ||ecn-analytics.emc.com^
 ||eco-api.meiqia.com^
-||eco.taobao.com^
 ||ecomadserver.com^
 ||economicadvantage.midamerican.com^
 ||ecorchq.chainverd.click^
@@ -12988,7 +12998,6 @@
 ||email.atachment.click^
 ||email.authenticatoin.click^
 ||email.ciconnectmyleads.com^
-||email.durben.click^
 ||email.headsuphealth.com^
 ||email.mail.conversations.godaddy.com^
 ||email.partner.theknot.com^
@@ -13022,6 +13031,7 @@
 ||enchantedevergreen.click^
 ||encom-corp.com^
 ||encyclopediacriminalleads.com^
+||endesa.click^
 ||energydrinkadverts.com^
 ||energymovethat.click^
 ||engine.4chan-ads.org^
@@ -13272,7 +13282,6 @@
 ||f6f902ccca6df39925b612ad6761db47.wurp.pl^
 ||f70896e52938ef7c34489ad19a4cf431.lisapwa.pl^
 ||f84add7c62.com^
-||fa-favabook.click^
 ||faberadv01.webtrekk.net^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
@@ -13416,7 +13425,6 @@
 ||finance-earn.click^
 ||finance.cityads.com^
 ||financehelp.click^
-||financiadocdownloads.7d7sr35izl.free.hr^
 ||financiaoctubreactivacionweb.click^
 ||financiladvisor.site^
 ||finangoo.click^
@@ -15208,6 +15216,7 @@
 ||jpaasne.e.shifen.com^
 ||jpchnews32.click^
 ||jpush.html5.qq.com^
+||jqk-facebook.click^
 ||jqmt.qq.com^
 ||jquery-uim.download^
 ||jr.ads.zalo.me^
@@ -15670,6 +15679,7 @@
 ||leads.su^
 ||leads.traffichaus.com^
 ||leads2.specificmedia.com^
+||leadsafehousing.org^
 ||leadsaffiliateinfo.com^
 ||leadscorehub-view.info^
 ||leadscout.com^
@@ -16591,7 +16601,6 @@
 ||mieszkancyprzekazuja.click^
 ||mildsewery.click^
 ||milosciupadek.click^
-||mime.baidu.com^
 ||mincure-ad.com^
 ||mindsparkadvertising.com^
 ||mine.baidu.com^
@@ -16892,7 +16901,6 @@
 ||msg.shouji.360.cn^
 ||msg.simeji.baidu.jp^
 ||msg.umengcloud.com^
-||msg.video.qiyi.com^
 ||msg2.video.qiyi.com^
 ||msga.71.am^
 ||msga.cupid.iqiyi.com^
@@ -17607,6 +17615,7 @@
 ||of.inviziads.com^
 ||of.open-sooursee.live^
 ||oferujemypomoc.click^
+||offer-update.com^
 ||offerads5.xyz^
 ||offergate-games-download1.com^
 ||offerleads.club^
@@ -17617,6 +17626,7 @@
 ||office365-eu-update.com^
 ||office365-us-update.com^
 ||offline-adv.oray.com^
+||offline.deliverys.click^
 ||offmsg.umeng.com^
 ||offpageads.com^
 ||ofiaryporwan.click^
@@ -19109,7 +19119,6 @@
 ||pub-0b316cc45e6a4c88ade025b013d98aee.r2.dev^
 ||pub-0b8e652324e54afdade2e5a3fea11f9d.r2.dev^
 ||pub-0c3fe4af774040a4990d7d9a310bad99.r2.dev^
-||pub-0d9adf7a3b6143ed928651bc7b8372ed.r2.dev^
 ||pub-0dc0250fcf9649d88a2b5ce2d7bdad17.r2.dev^
 ||pub-0f129597b1c54dd9b9d80e64ad0fdb84.r2.dev^
 ||pub-0f5daa1b964b4e6dad68f5c409ee56b5.r2.dev^
@@ -19153,7 +19162,6 @@
 ||pub-2558ad5a143049ff807a1b2b3516c41d.r2.dev^
 ||pub-255974fead35429cb355cacab770a8b2.r2.dev^
 ||pub-2569193321434588bad9fb7eb9d77a72.r2.dev^
-||pub-257eb733a8994fb181c48ddea6ad6482.r2.dev^
 ||pub-25902d32074b459eb837a12ad320b79e.r2.dev^
 ||pub-26240ad62996453d9928d007fc82cb55.r2.dev^
 ||pub-267e75099df1409cb8ac9c2adf802a43.r2.dev^
@@ -19166,7 +19174,6 @@
 ||pub-28e6b3104e7749e982ad1a03bd5fa839.r2.dev^
 ||pub-2a2af4adff814e44ad26d01b7fba6c43.r2.dev^
 ||pub-2b8283ead0624d4c98c14477e61f039e.r2.dev^
-||pub-2b894ade085f4baf93ae8d32a344c607.r2.dev^
 ||pub-2baec7fbe55e462d9ff048f145ad9186.r2.dev^
 ||pub-2beff241cfa64d7f83b822e8c227ad4a.r2.dev^
 ||pub-2de01adc1f574454933b0eddb85ff574.r2.dev^
@@ -19220,7 +19227,6 @@
 ||pub-455e03f75b7840a6a7728a4f227ad427.r2.dev^
 ||pub-45641551159848359abad22e0fa38cdc.r2.dev^
 ||pub-4586b478b2f54bb09416d9476dee0ad7.r2.dev^
-||pub-467765a8628e42e98fe75fabbad9da80.r2.dev^
 ||pub-47752fad5d8046678118f8980f370361.r2.dev^
 ||pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev^
 ||pub-4818236dd82042498f2808badd1a7f99.r2.dev^
@@ -19245,7 +19251,6 @@
 ||pub-50f6be4f4c494888b25f632fad312d3b.r2.dev^
 ||pub-523306eec0da44b380100aead59b3de7.r2.dev^
 ||pub-5287bb05bc8149adadd508ff20a600e4.r2.dev^
-||pub-529eadd53e464b79a8e42aaf8c437ef2.r2.dev^
 ||pub-54701d048f8b4ad7844d091579a3a0f8.r2.dev^
 ||pub-5540d9e7137b40c3ae57c5ad36961566.r2.dev^
 ||pub-55d4e66ad88746a881ca38372f04d03d.r2.dev^
@@ -19336,7 +19341,6 @@
 ||pub-892c2501da2d4112ad3e57b5bbf7c8e9.r2.dev^
 ||pub-8961c2ca10324fafb04ad839e8d2f531.r2.dev^
 ||pub-8969d92044964ea79ad44f5a4bc62d63.r2.dev^
-||pub-8a26cc6761c74fc2a853f3adf09d6b74.r2.dev^
 ||pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev^
 ||pub-8b8de6dbc21b4bb49ceaead3297322f4.r2.dev^
 ||pub-8d4a915799634befaa30a9181ad86c1a.r2.dev^
@@ -19382,7 +19386,6 @@
 ||pub-a585275162b94eeead6f34b59fc34175.r2.dev^
 ||pub-a8e31add0a6b4aba869febaa01df3901.r2.dev^
 ||pub-aaadb567b6be4640bbf2dd4d150827ab.r2.dev^
-||pub-aad2f18c142742418ce7836b1f9e4e3c.r2.dev^
 ||pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev^
 ||pub-aada93f324fb4e939d705c37fd8bcf35.r2.dev^
 ||pub-ab02cb8aa2e349fb806b48a09adf0ee1.r2.dev^
@@ -19398,7 +19401,6 @@
 ||pub-ad67c7c38742462bb848b6da99cc0fd9.r2.dev^
 ||pub-ad961fc311f24bea9daef5a210bb5231.r2.dev^
 ||pub-ade4660d6ecb44219beeb591977d69a2.r2.dev^
-||pub-aded733e25664d3988308cc84cad968a.r2.dev^
 ||pub-adf6b8b7a5a34f78b8f5e90a6f0af7df.r2.dev^
 ||pub-aeed3752f2844d42ada6ae0ec9107cee.r2.dev^
 ||pub-afb2ad1162c74a25be272d397fdacbf2.r2.dev^
@@ -19410,13 +19412,13 @@
 ||pub-b3bb5c7add1343499e959551a11cfd68.r2.dev^
 ||pub-b3f8ec936f1740c8bad0fe58f8e07b59.r2.dev^
 ||pub-b50adc5d699a4f08aec37102c2103da7.r2.dev^
-||pub-b53bd5e7c534438eb64ad032990328d0.r2.dev^
 ||pub-b68ad5fe66a24ea9b097463761f317ac.r2.dev^
 ||pub-b707cb1c1ad5452abd7f62804f60c7de.r2.dev^
 ||pub-b719f0f94fbc4f2cb00dad7cbbb1b66a.r2.dev^
 ||pub-b71ceadb77a943aabe274226b732448a.r2.dev^
 ||pub-b72cd462909d46f0a9b08afad77e852f.r2.dev^
 ||pub-b8d557d502ff4b20ad52a88c112349ba.r2.dev^
+||pub-b9222478e8d948da90a3ce9ad319d51c.r2.dev^
 ||pub-ba96816804554e749d65b34a39cad914.r2.dev^
 ||pub-bad64a4a41c54041b5a27e514d127172.r2.dev^
 ||pub-bb32416e948549f19ca5ead06c8413dd.r2.dev^
@@ -19425,7 +19427,6 @@
 ||pub-bdc7ec182e8e47849a4d9d595627bad1.r2.dev^
 ||pub-bfa996da206341bf95ad2ae06c6571cc.r2.dev^
 ||pub-bfad8b0edfb44ccd9b8256b560fbf5ae.r2.dev^
-||pub-c098a9df86b743fa91e4681b997ad763.r2.dev^
 ||pub-c0d025e52a2f48ab94ad600816741dcc.r2.dev^
 ||pub-c0d6bfb50fff44edad9ea7a58c30af47.r2.dev^
 ||pub-c285c67e118d45b89711c5adf9f37ef2.r2.dev^
@@ -19493,7 +19494,6 @@
 ||pub-e7903ad93c824e45a08f2b704d75508e.r2.dev^
 ||pub-e944680d890c492cb6ad9ae96cbe621b.r2.dev^
 ||pub-e99c19c8957e498ead69349684cabbd4.r2.dev^
-||pub-ea585ada54bb4b5282e7ae85fd88350e.r2.dev^
 ||pub-eabd9f75458e45acae2c6aa57aad6df8.r2.dev^
 ||pub-ead58d7e4cec4ac1b9dd1885b53d0d96.r2.dev^
 ||pub-eb6a6766d3394dad914b4ecbbe01a39e.r2.dev^
@@ -23015,7 +23015,6 @@
 ||tukinre.click^
 ||tunein.adswizz.com^
 ||tunein.deliveryengine.adswizz.com^
-||tunion-api.m.taobao.com^
 ||tunnerbiogeny.click^
 ||turbo.adsbynimbus.com^
 ||turbo2sdk-push.oupeng.com^
@@ -25194,6 +25193,7 @@
 ||www.cool-downloads.net^
 ||www.coplerni.click^
 ||www.corallinal.wildcatler.click^
+||www.corp-karmine.com^
 ||www.cpmadvisors.com^
 ||www.cpro.chatpros.site^
 ||www.craftquark.click^
@@ -25600,6 +25600,7 @@
 ||www.layers.ero-advertising.com^
 ||www.lead-analytics-1000.com^
 ||www.leads.goldenshovel.com^
+||www.leadsafehousing.org^
 ||www.leadsoftwaredeveloper.com^
 ||www.leadspackages.com^
 ||www.leadsplumber.com^
@@ -25776,6 +25777,8 @@
 ||www.occupyteam.click^
 ||www.odlotowy-bon.click^
 ||www.odnajdzmydziecko.click^
+||www.offer-update.com^
+||www.offline.deliverys.click^
 ||www.oistatniarundka.click^
 ||www.okolicznewiesci.click^
 ||www.olioframe.click^
@@ -25791,7 +25794,6 @@
 ||www.olx.extensions-click.shop^
 ||www.olx.impact-partner.shop^
 ||www.olx.share-domain.shop^
-||www.omniva-ee.click^
 ||www.onclickads.net^
 ||www.onel-pol.click^
 ||www.onet-news.click^
@@ -26862,7 +26864,6 @@
 ||zbiorportali.click^
 ||zbiorzdarzen.click^
 ||zc.adswizz.com^
-||zconfig.alibabausercontent.com^
 ||zdads.e-media.com^
 ||zdalne-informacje.click^
 ||zdarzeniadrogowe.click^
