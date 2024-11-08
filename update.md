@@ -32,3 +32,5 @@
 api-cn.store.heytapmobi.com
 api-cn.theme.heytapmobi.com
 ```
+- v190
+> 封锁几个漏网之鱼
