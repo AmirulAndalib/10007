@@ -20,17 +20,9 @@
 ```
 127.0.0.1 black.qimo.ink
 ```
-- v184
-> ①域名`a0.app.xiaomi.com`改为iptables禁用
-> ②可用Magisk alpha的`action.sh`，选择放行或者禁用。
-> ③该域名影响MIUI云备份以及会上传应用列表给MIUI。
-- v187
-> 修复QQ音乐广告奖励问题。
-- v188
-> 修复OPPO商店和主题问题，但同时也会出现开屏广告。
+- 191
+>修复网易光遇 sky 登录
+> 感谢[@niani2](https://github.com/niani2)反馈
 ```
-api-cn.store.heytapmobi.com
-api-cn.theme.heytapmobi.com
+fp-upload.dun.163.com
 ```
-- v190
-> 封锁几个漏网之鱼
