@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: Ojz6KqNiI7T1WQZdND2f+g
+! Checksum: QSxXVy+lXzfrVsppsyZTLQ
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-11-09 09:01:24
+! Last modified: 2024-11-10 09:07:22
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-11-09 08:59:54 ^
-!规则数量:26806^
+!更新时间: 2024-11-10 09:06:02 ^
+!规则数量:26820^
 !GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
 !Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
 !GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
@@ -367,12 +367,28 @@
 ! 感谢[@niani2](https://github.com/niani2)反馈
 @@||fp-upload.dun.163.com^$document
 
-
 ! 添加一些规则
 ||s.360.cn^$important
 ||p.s.360.cn^$important
 ||sconf.f.360.cn^$important
 ||qurl.f.360.cn^$important
+
+! 酷安重写
+! 手机壳推广
+||api2.coolapk.com/v6/feed/replyList$replace=/"entities":/"10007":/
+! 优惠券领取
+||api2.coolapk.com/v6/feed/detail$replace=/"detailSponsorCard":/"10007":/
+! 提到的好物
+||api2.coolapk.com/v6/feed/detail$replace=/"include_goods":/"10007":/
+! 囧次元
+/app/loadAdPositionConfig?app_id=
+! 豆瓣
+/app_ads/splash_show
+/app_ads/splash_preload
+/static/upload/ads
+/api/index/splash_ad
+||frodo.douban.com/api/v2/erebor/feed_ad
+||douban.com/count/
 
 
 ||0.r.msn.com^
@@ -2061,6 +2077,7 @@
 ||ad.u-car.com.tw^
 ||ad.uk.doubleclick.net^
 ||ad.unimhk.com^
+||ad.union.api^
 ||ad.unique1static.jp^
 ||ad.universcine.com^
 ||ad.us.doubleclick.net^
@@ -13534,6 +13551,7 @@
 ||feedback-c.zijieapi.com^
 ||feedback.uc.cn^
 ||feeds.wise-click.com^
+||feedsads.cn^
 ||feedsandleads.com^
 ||fenomeninformacyjny.click^
 ||fert.ofishlprog1.click^
@@ -15926,6 +15944,7 @@
 ||lf29-common-ckv-tos.pstatp.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf3-common-ckv-tos.pstatp.com^
+||lf3-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf30-common-ckv-tos.pstatp.com^
 ||lf31-common-ckv-tos.pstatp.com^
 ||lf4-common-ckv-tos.pstatp.com^
@@ -17963,6 +17982,7 @@
 ||onexb.maskproj.click^
 ||onichcatak.click^
 ||onlinadverts.com^
+||online-config.thejeu.com^
 ||online-info.click^
 ||online.adservicemedia.dk^
 ||online.cnzz.com^
@@ -18437,13 +18457,18 @@
 ||pangle-b.io^
 ||pangle.io^
 ||pangle.io.edgekey.net^
+||pangolin-dsp-toutiao-b.com^
+||pangolin-dsp-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
+||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao1.com^
 ||pangolin.snssdk.com^
 ||pangolin16.isnssdk.com^
 ||pangolin16.sgsnssdk.com^
 ||panoramacharter.click^
 ||panowiesnarled.click^
+||panplayable-toutiao-b.com^
+||panplayable-toutiao.com^
 ||panstwowrozpaczy.click^
 ||pantherads.com^
 ||paopao-monitor.iqiyi.com^
@@ -18641,6 +18666,7 @@
 ||pge.unityads.unity3d.com^
 ||pgeobrot.click^
 ||pgesa.click^
+||pglstatp-toutiao-b.com^
 ||pglstatp-toutiao.com^
 ||pgnig.click^
 ||pgnig.open.capitalforetof.site^
@@ -23091,6 +23117,7 @@
 ||trk.xapads.com^
 ||trkdev.indoleads.com^
 ||trkleads.ru^
+||trkprod.upst86.com^
 ||trmads.eu^
 ||troadsecow.com^
 ||tronads.io^
@@ -23290,6 +23317,7 @@
 ||uelbdc74fn.s.ad6media.fr^
 ||uestat.video.qiyi.com^
 ||uev.ad-stir.com^
+||ug.pangolin-dsp-toutiao.com^
 ||ug.snssdk.com^
 ||ugadanijestesmy.click^
 ||ugc-upload.3g.qq.com^
@@ -23503,6 +23531,7 @@
 ||upgrade-your-mind.com^
 ||upgrade.api.my7v.com^
 ||upgrade.mishop.pandora.xiaomi.com^
+||upgrade.thejeu.com^
 ||upl.expensivesurvey.click^
 ||upliftedworldbeacon.click^
 ||upload.ksapisrv.com^
@@ -25983,6 +26012,7 @@
 ||www.pandora-konkurs.com.pl^
 ||www.pandora-konkurs.pl^
 ||www.pandora.klyroquest.com^
+||www.pangolin-dsp-toutiao.com^
 ||www.parsads.com^
 ||www.partner-ads.com^
 ||www.partner-user.com^

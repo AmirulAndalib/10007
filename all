@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-11-09 08:59:19 
+#更新时间: 2024-11-10 09:05:30 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26806
+#规则数量:26820
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 #Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto
 #GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto
@@ -1709,6 +1709,7 @@
 127.0.0.1 ad.u-car.com.tw
 127.0.0.1 ad.uk.doubleclick.net
 127.0.0.1 ad.unimhk.com
+127.0.0.1 ad.union.api
 127.0.0.1 ad.unique1static.jp
 127.0.0.1 ad.universcine.com
 127.0.0.1 ad.us.doubleclick.net
@@ -13182,6 +13183,7 @@
 127.0.0.1 feedback-c.zijieapi.com
 127.0.0.1 feedback.uc.cn
 127.0.0.1 feeds.wise-click.com
+127.0.0.1 feedsads.cn
 127.0.0.1 feedsandleads.com
 127.0.0.1 fenomeninformacyjny.click
 127.0.0.1 fert.ofishlprog1.click
@@ -15574,6 +15576,7 @@
 127.0.0.1 lf29-common-ckv-tos.pstatp.com
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
 127.0.0.1 lf3-common-ckv-tos.pstatp.com
+127.0.0.1 lf3-sf-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 lf30-common-ckv-tos.pstatp.com
 127.0.0.1 lf31-common-ckv-tos.pstatp.com
 127.0.0.1 lf4-common-ckv-tos.pstatp.com
@@ -17611,6 +17614,7 @@
 127.0.0.1 onexb.maskproj.click
 127.0.0.1 onichcatak.click
 127.0.0.1 onlinadverts.com
+127.0.0.1 online-config.thejeu.com
 127.0.0.1 online-info.click
 127.0.0.1 online.adservicemedia.dk
 127.0.0.1 online.cnzz.com
@@ -18085,13 +18089,18 @@
 127.0.0.1 pangle-b.io
 127.0.0.1 pangle.io
 127.0.0.1 pangle.io.edgekey.net
+127.0.0.1 pangolin-dsp-toutiao-b.com
+127.0.0.1 pangolin-dsp-toutiao.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
+127.0.0.1 pangolin-sdk-toutiao.com
 127.0.0.1 pangolin-sdk-toutiao1.com
 127.0.0.1 pangolin.snssdk.com
 127.0.0.1 pangolin16.isnssdk.com
 127.0.0.1 pangolin16.sgsnssdk.com
 127.0.0.1 panoramacharter.click
 127.0.0.1 panowiesnarled.click
+127.0.0.1 panplayable-toutiao-b.com
+127.0.0.1 panplayable-toutiao.com
 127.0.0.1 panstwowrozpaczy.click
 127.0.0.1 pantherads.com
 127.0.0.1 paopao-monitor.iqiyi.com
@@ -18289,6 +18298,7 @@
 127.0.0.1 pge.unityads.unity3d.com
 127.0.0.1 pgeobrot.click
 127.0.0.1 pgesa.click
+127.0.0.1 pglstatp-toutiao-b.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pgnig.click
 127.0.0.1 pgnig.open.capitalforetof.site
@@ -22739,6 +22749,7 @@
 127.0.0.1 trk.xapads.com
 127.0.0.1 trkdev.indoleads.com
 127.0.0.1 trkleads.ru
+127.0.0.1 trkprod.upst86.com
 127.0.0.1 trmads.eu
 127.0.0.1 troadsecow.com
 127.0.0.1 tronads.io
@@ -22938,6 +22949,7 @@
 127.0.0.1 uelbdc74fn.s.ad6media.fr
 127.0.0.1 uestat.video.qiyi.com
 127.0.0.1 uev.ad-stir.com
+127.0.0.1 ug.pangolin-dsp-toutiao.com
 127.0.0.1 ug.snssdk.com
 127.0.0.1 ugadanijestesmy.click
 127.0.0.1 ugc-upload.3g.qq.com
@@ -23151,6 +23163,7 @@
 127.0.0.1 upgrade-your-mind.com
 127.0.0.1 upgrade.api.my7v.com
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 upgrade.thejeu.com
 127.0.0.1 upl.expensivesurvey.click
 127.0.0.1 upliftedworldbeacon.click
 127.0.0.1 upload.ksapisrv.com
@@ -25631,6 +25644,7 @@
 127.0.0.1 www.pandora-konkurs.com.pl
 127.0.0.1 www.pandora-konkurs.pl
 127.0.0.1 www.pandora.klyroquest.com
+127.0.0.1 www.pangolin-dsp-toutiao.com
 127.0.0.1 www.parsads.com
 127.0.0.1 www.partner-ads.com
 127.0.0.1 www.partner-user.com
