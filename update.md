@@ -26,3 +26,5 @@
 ```
 fp-upload.dun.163.com
 ```
+- 193
+> 放行`click.discord.com`(还有一坨东西)，感谢[@Rainyin](https://github.com/Yinhono)反馈。
