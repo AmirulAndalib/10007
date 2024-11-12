@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: nxZjwKb2OvBLJg+iIDOnDA
+! Checksum: 0lkes+k2KwcvoNrebeH2RQ
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-11-11 09:22:25
+! Last modified: 2024-11-12 09:57:05
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-11-11 09:21:25^
+!更新时间: 2024-11-12 09:56:22^
 !提速测试^
-!规则数量:26830^
+!规则数量:26897^
 !GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
 !Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
 !GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
@@ -637,6 +637,7 @@
 ||2bb232b32911d673afad122d86565de0.wurp.pl^
 ||2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl^
 ||2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl^
+||2ciy2-9kbup.ads.tremorhub.com^
 ||2d03f1b1397fe68ba461fdacee512ad5.ntfws.pl^
 ||2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl^
 ||2dance.services-ai-tech.click^
@@ -733,6 +734,7 @@
 ||4c1ccb6cf9d817ad66ed09b86907c80b.owps.pl^
 ||4cadde268849f31ead5281e2222a9b36.puoli.pl^
 ||4chan-ads.org^
+||4cywq-eqnre.ads.tremorhub.com^
 ||4d245cb24ecadc5f97ad90571a32af38.pocklag.pl^
 ||4f11a9b8da09dca58c35fabbda9aad30.hanmot.pl^
 ||4fe24dd015e3210ad28c8757aad1824d.jgirs.pl^
@@ -763,7 +765,9 @@
 ||5d5b4852dc6f0c2bcbe43ca1f36ad53a.ntfws.pl^
 ||5db03a51a3.ntfx-pl.click^
 ||5e8135ed86487f981dab5f689d35ad40.arturivan.pl^
+||5ew8d-b3mmu.ads.tremorhub.com^
 ||5gtest.bj2cu.u3.ucweb.com^
+||5nbh3-h9cpz.ads.tremorhub.com^
 ||5x.lixprog.click^
 ||5x.xtnew.click^
 ||6-partner.com^
@@ -798,6 +802,9 @@
 ||6f7ad7ae07.142f8fb46a.com^
 ||6fff7b700eead3cb5099ba2d80490310.psdora.pl^
 ||6gtest.bj2cu.u3.ucweb.com^
+||6psex-axuft.ads.tremorhub.com^
+||6psex-fm1gy.ads.tremorhub.com^
+||6psex-sootr.ads.tremorhub.com^
 ||7-7-7-partner.com^
 ||7037a6debc42501a14259d67ad424f22.uriw.pl^
 ||704778a7de6f0f5161cad0146b808891.jrms.pl^
@@ -856,6 +863,8 @@
 ||8b224ad1.augustoxs.com^
 ||8b253a.vyk.admaster.com.cn^
 ||8b26nu.viqiyi.admaster.com.cn^
+||8b4pea.c.admaster.com.cn^
+||8b6dfa.v.admaster.com.cn^
 ||8b6fqu.vyk.admaster.com.cn^
 ||8b6fxa.viqiyi.admaster.com.cn^
 ||8b8a4a.viqiyi.admaster.com.cn^
@@ -876,6 +885,7 @@
 ||8cf3ha.vsohu.admaster.com.cn^
 ||8cffau.viqiyi.admaster.com.cn^
 ||8cgzvu.viqiyi.admaster.com.cn^
+||8chzga.v.admaster.com.cn^
 ||8ci19u.vyk.admaster.com.cn^
 ||8ci2nu.vyk.admaster.com.cn^
 ||8ci46u.vyk.admaster.com.cn^
@@ -885,6 +895,7 @@
 ||8csexa.vfs.admaster.com.cn^
 ||8dad51e0a1.329efb045e.com^
 ||8dcn5u.viqiyi.admaster.com.cn^
+||8dcyqu.c.admaster.com.cn^
 ||8dqc4u.viqiyi.admaster.com.cn^
 ||8dvzfa.vfs.admaster.com.cn^
 ||8fedad487b1fda410e9f48fc639f2213.notplsz.pl^
@@ -6979,6 +6990,7 @@
 ||adx.3sfmedia.com^
 ||adx.aarki.net^
 ||adx.adform.net^
+||adx.admaster.com.cn^
 ||adx.admicro.vn^
 ||adx.adnxs.com^
 ||adx.ads.heytapmobi.com^
@@ -10342,6 +10354,7 @@
 ||bkmcgi.play.cp81.ott.cibntv.net^
 ||bksdkconfig.play.cp81.ott.cibntv.net^
 ||bksoup.v.qq.com^
+||bktr2-06hdl.ads.tremorhub.com^
 ||bl.hoengnk2.click^
 ||bla.gtimg.com^
 ||blablacar.load13241.info^
@@ -10412,6 +10425,7 @@
 ||blurrmqlqyr.click^
 ||bm.alimama.cn^
 ||bm11vmkp.linepwsd.click^
+||bm8fw-xpghg.ads.tremorhub.com^
 ||bmbezlim.inventnamb.click^
 ||bmev6y4x1uby.ad-operations-streamline.sbs^
 ||bmfads.com^
@@ -11085,6 +11099,7 @@
 ||cfg.adsmogo.com^
 ||cfg.flurry.com^
 ||cfnewsads.thomasnet.com^
+||cguke-9h64o.ads.tremorhub.com^
 ||ch.ads.justpremium.com^
 ||chadseer.xyz^
 ||chainads.io^
@@ -13302,6 +13317,9 @@
 ||epochinsightreports.click^
 ||epomads2.4shared.com^
 ||epttavm.api.useinsider.com^
+||eq97f-1j0az.ads.tremorhub.com^
+||eq97f-3ak3i.ads.tremorhub.com^
+||eq97f-d6025.ads.tremorhub.com^
 ||eqads.com^
 ||equaleddunair.click^
 ||equuleus.iad.appboy.com^
@@ -13858,6 +13876,7 @@
 ||fulvideozrt.click^
 ||fulwads.uno^
 ||fumiad.dxys.pro^
+||fun-adx.admaster.com.cn^
 ||fun-comu.click^
 ||fun-mobi.pl^
 ||fun.adx.admaster.com.cn^
@@ -14100,6 +14119,12 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.uc.cn^
 ||gjtrack.ucweb.com^
+||gklfs-0vg08.ads.tremorhub.com^
+||gklfs-fvifs.ads.tremorhub.com^
+||gklfs-giam6.ads.tremorhub.com^
+||gklfs-idnhw.ads.tremorhub.com^
+||gklfs-ktn14.ads.tremorhub.com^
+||gklfs-x8k98.ads.tremorhub.com^
 ||gkpge.click^
 ||gl-adsrv.rtbsuperhub.com^
 ||gl-product-analytics.com^
@@ -14384,6 +14409,7 @@
 ||h.msn.com^
 ||h092021u.click^
 ||h1.msn.com^
+||h250p-y3urn.ads.tremorhub.com^
 ||h353.ncadvertiser.com^
 ||h5.analytics.126.net^
 ||h5.isnssdk.com^
@@ -14737,6 +14763,7 @@
 ||i16-tb.isnssdk.com.edgekey.net^
 ||i18.icast-ad.com^
 ||i18q.admaster.com.cn^
+||i79zj-tzyj9.ads.tremorhub.com^
 ||i889l.tentaklsistem.click^
 ||iab-imp-gateway.supersonicads.com^
 ||iad-01.braze.com^
@@ -15309,6 +15336,7 @@
 ||ip2.ads.stickyadstv.com.akadns.net^
 ||ip4.tracker-api.my.com^
 ||ipbelgium.adswizz.com^
+||ipinyou.cm.admaster.com.cn^
 ||ipinyou.com^
 ||ipinyou.com.cn^
 ||ipipipi.inventnamb.click^
@@ -15597,6 +15625,7 @@
 ||jutrzejszezmaganie.click^
 ||juxiao.adsmogo.net^
 ||juxiao.mediav.com^
+||jzwjq.ads.tremorhub.com^
 ||k.tcp.push.mob.com^
 ||k1.mobileadsserver.com^
 ||k5ads.osdn.com^
@@ -16396,6 +16425,8 @@
 ||m2m-api.inmarket.com^
 ||m2m1.inner-active.mobi^
 ||m3.ad.10010.com^
+||m6dqx-ad3hl.ads.tremorhub.com^
+||m7hdh-2damu.ads.tremorhub.com^
 ||ma-adx.ctrip.com^
 ||ma.ads.justpremium.com^
 ||ma1169-r.analytics.edgekey.net^
@@ -16650,6 +16681,8 @@
 ||mb.atm.youku.com^
 ||mb.lenovomm.com^
 ||mb.moatads.com^
+||mb9eo-7w62j.ads.tremorhub.com^
+||mb9eo-nkrlx.ads.tremorhub.com^
 ||mbads.paas.cmbchina.com^
 ||mbadv.nan.co.jp^
 ||mbbhij.mi-home.pl^
@@ -18239,6 +18272,7 @@
 ||ort.stsdk.vivo.com.cn^
 ||oryginalnepismo.click^
 ||oryginalnosc.click^
+||oryj8-jzbmc.ads.tremorhub.com^
 ||os-mon.zijieapi.com^
 ||osiedloweakty.click^
 ||osiedlowedonosy.click^
@@ -18434,6 +18468,14 @@
 ||p4-ad.adukwai.com^
 ||p4-be-pack-sign.pglstatp-toutiao.com^
 ||p4-orange.byteorge.com^
+||p4dt2-0pwq8.ads.tremorhub.com^
+||p4dt2-4nrdw.ads.tremorhub.com^
+||p4dt2-8d2sv.ads.tremorhub.com^
+||p4dt2-980w2.ads.tremorhub.com^
+||p4dt2-9fzxj.ads.tremorhub.com^
+||p4dt2-hr9oj.ads.tremorhub.com^
+||p4dt2-scyd6.ads.tremorhub.com^
+||p4dt2-uma55.ads.tremorhub.com^
 ||p4p.sina.com.cn^
 ||p4talparad1se.xyz^
 ||p5-ad-sign.byteimg.com^
@@ -18659,6 +18701,11 @@
 ||pc.mobad.ijinshan.com^
 ||pc.stgowan.com^
 ||pc.videoclick.baidu.com^
+||pc031-edgup.ads.tremorhub.com^
+||pc051-k4snh.ads.tremorhub.com^
+||pc083-0qo9e.ads.tremorhub.com^
+||pc083-aipdx.ads.tremorhub.com^
+||pc083-ii06c.ads.tremorhub.com^
 ||pc1.da.mgtv.com^
 ||pc1ads.com^
 ||pc2ads.com^
@@ -18726,6 +18773,7 @@
 ||pg-kix.ksapisrv.com^
 ||pg.aty.sohu.com^
 ||pg.xdrig.com^
+||pg308-zmbra.ads.tremorhub.com^
 ||pge-obrot.click^
 ||pge-platnosc.click^
 ||pge-sa.click^
@@ -18893,6 +18941,8 @@
 ||play.b52.mobi^
 ||play.sunmediaads.com^
 ||play.vaob52.click^
+||playbuzzmm.ads.tremorhub.com^
+||playbuzzmobileweb.ads.tremorhub.com^
 ||player-aws.ads.152media.com^
 ||player.ads.152media.com^
 ||player.lstat.youku.com^
@@ -19816,6 +19866,7 @@
 ||px.tvadsync.com^
 ||px.ucweb.com^
 ||px2.moatads.com^
+||px2ii-ufb66.ads.tremorhub.com^
 ||px2m.moatads.com^
 ||px4.ads.linkedin.com^
 ||pxl.ace.advertising.com^
@@ -19835,6 +19886,8 @@
 ||q.cnzz.com^
 ||q.gds.cnzz.com^
 ||q.vlion.cn^
+||q017o-d42by.ads.tremorhub.com^
+||q017o-jh7o1.ads.tremorhub.com^
 ||q1.cnzz.com^
 ||q11.cnzz.com^
 ||q12.cnzz.com^
@@ -19999,6 +20052,7 @@
 ||reach-api.urbanairship.com^
 ||reachableads.com^
 ||reachadv.it^
+||reachmax-cm.admaster.com.cn^
 ||reactads.cdn.adglare.net^
 ||reactads.com^
 ||reactads.engine.adglare.net^
@@ -20078,6 +20132,7 @@
 ||region1.analytics.google.com^
 ||region1.google-analytics.com^
 ||regionads.ru^
+||regional.ads.tremorhub.com^
 ||regionaladversarylight.com^
 ||regionypolski.click^
 ||regis2tarsgroup.click^
@@ -21474,6 +21529,12 @@
 ||sladywypadku.click^
 ||slate-ad-scripts.s3.amazonaws.com^
 ||slaxpro.projectprog.click^
+||slckg-2p3vy.ads.tremorhub.com^
+||slckg-4znyf.ads.tremorhub.com^
+||slckg-kqe2e.ads.tremorhub.com^
+||slckg-lyoc5.ads.tremorhub.com^
+||slckg-nugvu.ads.tremorhub.com^
+||slckg-qrmhc.ads.tremorhub.com^
 ||sledczapomylka.click^
 ||sledzeniedowodow.click^
 ||sledzimykomentarz.click^
@@ -21633,6 +21694,7 @@
 ||sogo.uc.continuefaf.top^
 ||sohiads.shop^
 ||sohu-dtv.m.cn.miaozhen.com^
+||sohutv.cm.admaster.com.cn^
 ||sohutv.m.cn.miaozhen.com^
 ||sokmil-ad.com^
 ||solads.media^
@@ -23794,6 +23856,8 @@
 ||v4-lm.adukwai.com^
 ||v4.cnzz.com^
 ||v4.moatads.com^
+||v4r9z-3jgr1.ads.tremorhub.com^
+||v4r9z-fjydq.ads.tremorhub.com^
 ||v5-ad.ixigua.com^
 ||v5.cnzz.com^
 ||v6-ad.ixigua.com^
@@ -23802,6 +23866,7 @@
 ||v6.cnzz.com^
 ||v7-ad.ixigua.com^
 ||v7.cnzz.com^
+||v7cmh-gklx4.ads.tremorhub.com^
 ||v8-ad.ixigua.com^
 ||v8-us.sdk.beemray.com^
 ||v8.analytics.pinsightmedia.com^
@@ -24368,6 +24433,7 @@
 ||vt.ipinyou.com^
 ||vtads.xml.ak-is2.net^
 ||vtekbusinessads.com^
+||vtrdn-wjdav.ads.tremorhub.com^
 ||vtyqy.admaster.com.cn^
 ||vu.adschoom.com^
 ||vu.moatads.com^
@@ -26979,6 +27045,7 @@
 ||youworklike.click^
 ||yovoads.com^
 ||yoyadsdom.com^
+||yoyi-cm.admaster.com.cn^
 ||ys.da.mgtv.com^
 ||ys2000.cdn.bcebos.com^
 ||ysdk.qq.com^

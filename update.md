@@ -20,14 +20,5 @@
 ```
 127.0.0.1 black.qimo.ink
 ```
-- 191
->修复网易光遇 sky 登录
-> 感谢[@niani2](https://github.com/niani2)反馈
-```
-fp-upload.dun.163.com
-```
-- 193
-> 放行`click.discord.com`(还有一坨东西)，感谢[@Rainyin](https://github.com/Yinhono)反馈。
-- 194
-> ①`api.ad.xiaomi.com`改为iptables禁用，感谢[@Say-Hi-bye](https://github.com/Say-Hi-bye)反馈，可以用action修改备份状态，直接执行`/data/adb/modules/GGAT_10007/action.sh`可反复切换禁用状态，可以用`anywhere`或者`xposed edge`执行命令。
-> ②添加放行白名单，支持`adashx.m.taobao.com` `@@||adashx.m.taobao.com^` `127.0.0.1 adashx.m.taobao.com` 的格式填入`放行白名单.prop`。
+- 196
+> 优化模块逻辑和网络性能
