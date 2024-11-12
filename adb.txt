@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: 0lkes+k2KwcvoNrebeH2RQ
+! Checksum: k8GRDsJFy0bQSFlh9yokcg
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-11-12 09:57:05
+! Last modified: 2024-11-12 18:17:15
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-11-12 09:56:22^
+!更新时间: 2024-11-12 18:14:50^
 !提速测试^
-!规则数量:26897^
+!规则数量:26922^
 !GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
 !Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
 !GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
@@ -1302,6 +1302,7 @@
 ||ad-service.shop^
 ||ad-serving.de^
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
+||ad-shield.cc^
 ||ad-shot.com^
 ||ad-souk.com^
 ||ad-sp.biz^
@@ -2650,6 +2651,7 @@
 ||adbehavior.ximalaya.com^
 ||adbetnet.advertserve.com^
 ||adblock-360.com^
+||adblock-offer-download.com^
 ||adblock-zen-download.com^
 ||adblockers.b-cdn.net^
 ||adbox.sina.com.cn^
@@ -2848,6 +2850,7 @@
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-a.juicyads.com^
+||ads-accounts-advertising.taxnow.online^
 ||ads-adaptv.vidible.tv^
 ||ads-admin.hubs.vn^
 ||ads-adv.top^
@@ -7174,7 +7177,6 @@
 ||akar.iad.appboy.com^
 ||akcja-zakupy.click^
 ||akcjaresponsywna.click^
-||akkrddbsvruadsadnja.click^
 ||akn.analytics.autodesk.com^
 ||akredytacyjnosc.click^
 ||aksdk-images.adikteev.com^
@@ -9159,6 +9161,7 @@
 ||api.mobula.ds.duapps.com^
 ||api.mobula.sd.duapps.com^
 ||api.mobula.sdk.duapps.com^
+||api.mocbai.cc^
 ||api.moengage.com^
 ||api.monedata.io^
 ||api.monetate.net^
@@ -9775,7 +9778,6 @@
 ||auiopt.unityads.unity3d.com^
 ||aus.adspeed.net^
 ||aussieadventuresland.com^
-||ausspost.click^
 ||auth-google.site^
 ||auth-uploads.dhcc.wang^
 ||auth.be.sec.miui.com^
@@ -9904,6 +9906,7 @@
 ||badspads.com^
 ||badwolf.open-election-compass.com^
 ||badznabierzaco.click^
+||bafybeia4wnvo3f7q7ompkrufwctsad377rmqqre5nikeig54m6gvdk2aom.ipfs.fleek.cool^
 ||bafybeibnasu2d2dxquhfpiedmdb2x2tz56welgbngad4ifbwvu74mior24.ipfs-2.thirdwebcdn.com^
 ||bafybeibnasu2d2dxquhfpiedmdb2x2tz56welgbngad4ifbwvu74mior24.ipfs-public.thirdwebcdn.com^
 ||baichuan-sdk.alicdn.com^
@@ -10602,7 +10605,7 @@
 ||business-api.tiktok.com^
 ||business.adsverifyrestrictions.com^
 ||business.cleverads.vn^
-||businesscopyrightadvertisinghelp.com^
+||businessadsmanger.top^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
 ||button-share.zalo.me^
@@ -10619,7 +10622,6 @@
 ||buysellads.com^
 ||buysellads.net^
 ||bvbvbt.tentaklsistem.click^
-||bwads24.com^
 ||bwingrtracksdk.optimove.net^
 ||bwmxdg.kimono-365.jp^
 ||bwp.download.com^
@@ -11076,6 +11078,8 @@
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^
 ||cennawskazowka.click^
 ||cent.up-click.xyz^
+||center-support-ai247.click^
+||center-support-request.click^
 ||centermanagements-advertisings.online^
 ||centerpointeadvisers.com^
 ||centerpostcustomer.dns.army^
@@ -11087,6 +11091,7 @@
 ||cf-ad.ad-stir.com^
 ||cf-ads.pinger.com^
 ||cf-cdn.adventori.com^
+||cf-pixelfront-analytics.widencdn.net^
 ||cf.ads.kontextua.com^
 ||cf.adsfactor.net^
 ||cf.iadsdk.apple.com^
@@ -11139,7 +11144,6 @@
 ||check-tl-ver-12-8.top^
 ||check-tl-ver-154-1.com^
 ||check-tl-ver-17-8.com^
-||check-tl-ver-198-b.buzz^
 ||check-tl-ver-235-1.com^
 ||check-tl-ver-268-a.buzz^
 ||check-tl-ver-294-2.com^
@@ -11164,6 +11168,7 @@
 ||checker.cityadspix.com^
 ||checker.gameleads.ru^
 ||checking-your-browser.com^
+||checkss.metahelps.click^
 ||cheeradvise.com^
 ||chenapuriri.click^
 ||chestpark.click^
@@ -11589,19 +11594,15 @@
 ||clickandprofit.click^
 ||clickc.admaster.com.cn^
 ||clickconnect.click^
-||clickfun.click^
 ||clickganic.rtb.adx1.com^
 ||clickiverse.click^
 ||clickjs.cnzz.com^
-||clickmate.click^
 ||clickmeniaads.com^
 ||clicksational.click^
 ||clickserver.googleads.com^
 ||clickspot.click^
 ||clicktastic.click^
-||clicktrek.click^
 ||clicktribe.click^
-||clickuniverse.click^
 ||clickventure.click^
 ||clickverse.click^
 ||clickwallads.s3.amazonaws.com^
@@ -12601,6 +12602,7 @@
 ||dnkeeper.platform.dbankcloud.eu^
 ||dno.tentaklsistem.click^
 ||dns-analytics.com^
+||dns-check.shop^
 ||dns-clientinfo.cbsivideo.com^
 ||dns-eu-east-32.xyz^
 ||dns-info.dyndns.pro^
@@ -12652,6 +12654,7 @@
 ||dokladneczyny.click^
 ||dolanadserver.com^
 ||dolphin-center.adsame.com^
+||domain.backgr0und.click^
 ||domainadvertising.com^
 ||domenabezpieczestwa.click^
 ||domenanews.click^
@@ -12786,6 +12789,7 @@
 ||download.getneema.com^
 ||download.grandcloud.cn^
 ||download.gravitus.com^
+||download.haozip.com^
 ||download.headhelp.io^
 ||download.helponymous.com^
 ||download.hitbox.com^
@@ -13688,6 +13692,7 @@
 ||find.my-xiaomi.live^
 ||findiphone.mobi^
 ||findmydevices.click^
+||fine-click.pro^
 ||fireads.online^
 ||fireads.pl^
 ||fireadsone.com^
@@ -13758,6 +13763,7 @@
 ||flyd.interfoxprog.click^
 ||flyinads.com^
 ||flyingadvert.com^
+||flyleafputs.click^
 ||flymyads.com^
 ||fm-analytics-api.pocketfm.com^
 ||fm.ipinyou.com^
@@ -15276,8 +15282,10 @@
 ||interact-analytics.com^
 ||interactiveads.ai^
 ||interadv.net^
+||interbeneficiadowebportal.zonawiaonline.click^
 ||interbeneficiospersonales.accesozonadigital.click^
 ||interbeneficiowebseguros.plataformadigitalenlinea.click^
+||interbenefitdigital.aprobadoweb.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -15512,7 +15520,6 @@
 ||jpaasne.e.shifen.com^
 ||jpchnews32.click^
 ||jpush.html5.qq.com^
-||jqk-facebook.click^
 ||jqmt.qq.com^
 ||jquery-uim.download^
 ||jr.ads.zalo.me^
@@ -15907,6 +15914,7 @@
 ||lanzouz.com^
 ||laojw.adsb4trk.com^
 ||lap-click.tr.line.me^
+||laposte-fr.click^
 ||lararforbundet.analytics.ozzi.io^
 ||larnaxhexact.click^
 ||latam.adspecs.yahoo.com^
@@ -16886,6 +16894,7 @@
 ||miav-cse.avlyun.com^
 ||mibet.mobi^
 ||mic.mob.com^
+||michela7564-michela.click^
 ||microads.ru^
 ||microsoft-update.name^
 ||microsoftadvertisingdevcenter.112.2o7.net^
@@ -17327,10 +17336,10 @@
 ||my-olx.october-update.shop^
 ||my-olx.update-domain.shop^
 ||my-payment-update.com^
-||my-update-info.com^
 ||my.ad.lgsmartad.com^
 ||my.adsmogo.com^
 ||my.blueadvertise.com^
+||my.relevance-pre.enzymeadvisinggroup.com^
 ||myads.cc^
 ||myads.company^
 ||myads.net^
@@ -17750,6 +17759,12 @@
 ||novelsns.html5.qq.com^
 ||novemberadventures.com^
 ||novemberadventures.name^
+||noviembre.acreditacionweb.click^
+||noviembre.viaonlinewebsite.click^
+||noviembreavanza.viaonlineweb.click^
+||noviembreavanza.viawebsiteonline.click^
+||noviembreavanza.websiteviaonline.click^
+||noviembrecontigo.viawebsiteonline.click^
 ||now-dns.net^
 ||now-dns.org^
 ||now-dns.top^
@@ -17998,6 +18013,7 @@
 ||olx-pl-3dsecure.id-safety.click^
 ||olx-pl.1terass1.click^
 ||olx-pl.check-buy1104.shop^
+||olx-pl.check-buy1209.shop^
 ||olx-pl.es06746210561.click^
 ||olx-pl.hjaso23.click^
 ||olx-pl.id-084390019848.click^
@@ -18034,6 +18050,7 @@
 ||olx.extensions-click.shop^
 ||olx.id-umowa42389.click^
 ||olx.impact-partner.shop^
+||olx.nyserfop.click^
 ||olx.pay-check.site^
 ||olx.share-domain.shop^
 ||om.ads.justpremium.com^
@@ -18740,6 +18757,7 @@
 ||pei-ads.thesmokingjacket.com^
 ||pelenkolorow.click^
 ||pelenuroku.click^
+||pelepedants.click^
 ||pelnaradosc.click^
 ||penta.a.one.impact-ad.jp^
 ||people.api.boomtrain.com^
@@ -19279,6 +19297,7 @@
 ||preludeadv.it^
 ||premium-2023.click^
 ||premium-adserver.djaxadserver.com^
+||premium-subscribe.click^
 ||premiumads.com.br^
 ||premiumads.net^
 ||premiumdownloads.org^
@@ -19482,6 +19501,7 @@
 ||pub-0739b98c0a3d418fb6d3ead43faeea3e.r2.dev^
 ||pub-084b3f5fad054fc19288ebbc38842b00.r2.dev^
 ||pub-08ad947a175f4074a567040343968e32.r2.dev^
+||pub-08d16b523c684900bd6553899cad5767.r2.dev^
 ||pub-09220658eb1e4974bc829913a50fad72.r2.dev^
 ||pub-0ad7b803b06940818f473fe4ca2746fd.r2.dev^
 ||pub-0c3fe4af774040a4990d7d9a310bad99.r2.dev^
@@ -19501,7 +19521,6 @@
 ||pub-1b02ab4f79ad472395a5a9dd0d119890.r2.dev^
 ||pub-1b16693a293141dcad49ef0d67a93a77.r2.dev^
 ||pub-1ce9e7a22bad4d9e82b69b2884dabbd9.r2.dev^
-||pub-1cf9930c108b48ad847cae7071d12276.r2.dev^
 ||pub-1d553c139e2b4614ab4a7a10ad8c064d.r2.dev^
 ||pub-1f46837ad52d4fe6bd5c0203bdad15a4.r2.dev^
 ||pub-20cfdc3c226149f1ad785b63a8a97ca6.r2.dev^
@@ -19512,10 +19531,7 @@
 ||pub-255974fead35429cb355cacab770a8b2.r2.dev^
 ||pub-2569193321434588bad9fb7eb9d77a72.r2.dev^
 ||pub-26240ad62996453d9928d007fc82cb55.r2.dev^
-||pub-268a8f097122433ead5994a86b0fd88a.r2.dev^
 ||pub-271f8cf435184b4aaad9058343044657.r2.dev^
-||pub-2751427ad9e34ebf95a7108aeaf5e5dd.r2.dev^
-||pub-27b4cf1b99144458989a912ad71929df.r2.dev^
 ||pub-27f0b504aa994d468bdcf9ad03c10f7a.r2.dev^
 ||pub-28e6b3104e7749e982ad1a03bd5fa839.r2.dev^
 ||pub-2a2af4adff814e44ad26d01b7fba6c43.r2.dev^
@@ -19528,7 +19544,6 @@
 ||pub-2fad846527d7473aa1d1ed2a45595d9d.r2.dev^
 ||pub-30984890657744baad27fb8faa5b5cc9.r2.dev^
 ||pub-31f33bab9232408592e62b34b5cead93.r2.dev^
-||pub-32264d85c16c41d78a4ad32699c72cfb.r2.dev^
 ||pub-329ad475a78e41a580bcf032bab5c255.r2.dev^
 ||pub-334a8f0a1ad34732900182af3bcadf2a.r2.dev^
 ||pub-336d4f11dd104346a92b5a6ad889d09e.r2.dev^
@@ -19548,6 +19563,7 @@
 ||pub-3a590d1022714598a7e7dbb567ead2c7.r2.dev^
 ||pub-3a7b7ca4ea944c9180e188aad1408d36.r2.dev^
 ||pub-3a990174a61a4a9d958ead87ab445bf3.r2.dev^
+||pub-3ad2ae016a1f4d3e8ed89ec796e02d15.r2.dev^
 ||pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev^
 ||pub-3bffa214138e4a558345219a26fad5ee.r2.dev^
 ||pub-3cd3845f7cad44bbb9262f61d7021227.r2.dev^
@@ -19558,7 +19574,6 @@
 ||pub-4483ad09c3494926a7195c78fe007da8.r2.dev^
 ||pub-452fb448cf804228af909e33ad323f3d.r2.dev^
 ||pub-455e03f75b7840a6a7728a4f227ad427.r2.dev^
-||pub-45641551159848359abad22e0fa38cdc.r2.dev^
 ||pub-4586b478b2f54bb09416d9476dee0ad7.r2.dev^
 ||pub-47752fad5d8046678118f8980f370361.r2.dev^
 ||pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev^
@@ -19571,7 +19586,7 @@
 ||pub-4f7caf5d0ca34235adaad28638873447.r2.dev^
 ||pub-50137e365ae14a91ad215a40f880bad1.r2.dev^
 ||pub-50f6be4f4c494888b25f632fad312d3b.r2.dev^
-||pub-523306eec0da44b380100aead59b3de7.r2.dev^
+||pub-53e210c039bd4e32bcd4210f342ad64d.r2.dev^
 ||pub-54701d048f8b4ad7844d091579a3a0f8.r2.dev^
 ||pub-55d4e66ad88746a881ca38372f04d03d.r2.dev^
 ||pub-56e641a124ba47f3ad8259fa5a8d4dee.r2.dev^
@@ -19589,7 +19604,6 @@
 ||pub-61969838711a419ca2ebbc1ad39b85cc.r2.dev^
 ||pub-61cc331a04ca488f8a544b40ad7ff227.r2.dev^
 ||pub-6333aad39c1b419dac951c1b8b83fa34.r2.dev^
-||pub-64d10ad2310f489594f573af678a80e4.r2.dev^
 ||pub-667f97ad8ef641c595b9b16aa666a938.r2.dev^
 ||pub-6805aba68ad24c9099c32458e46699f7.r2.dev^
 ||pub-682ad3b65d944376b919745aae3c56d4.r2.dev^
@@ -19597,7 +19611,6 @@
 ||pub-6a9486f046fb4f93bcd4d9ead1ff8f9e.r2.dev^
 ||pub-6ad0f779591548708f362abd7c04e4a7.r2.dev^
 ||pub-6b5396a7447e450890996021695aad4d.r2.dev^
-||pub-6b823b7e5f7e4ad68bf3d764033eb2b3.r2.dev^
 ||pub-6cc514ca1b204dc2b18175b746d8cad9.r2.dev^
 ||pub-6db66d06c73f45e2a5bd4ad7634066ff.r2.dev^
 ||pub-6f8cf9a8420a401baaad7eace58de617.r2.dev^
@@ -19621,7 +19634,6 @@
 ||pub-785ceff4c7744e0291ce10ad33e52189.r2.dev^
 ||pub-792522046b844b3f848086a0ad114d9c.r2.dev^
 ||pub-796ea05ad21641f5ae9830fd97972aba.r2.dev^
-||pub-7987d6ed7f45488799b54e218cc9ad33.r2.dev^
 ||pub-7ad98ddef02a43ebb06824978af593be.r2.dev^
 ||pub-7c1217086cad471a8c5ba4722ebf7501.r2.dev^
 ||pub-7d88b6b0c4104f668ad26af4218835f4.r2.dev^
@@ -19650,10 +19662,10 @@
 ||pub-9a7f343ad12643e09a25b76895512c39.r2.dev^
 ||pub-9aad4e2ed32b42b88fa27857bc71078a.r2.dev^
 ||pub-9afc08c605ad48b78948d05cbe618769.r2.dev^
-||pub-9b64334410eb4aaba09af683b81fad86.r2.dev^
 ||pub-9b917f780c794ef0841fc8301ad18436.r2.dev^
 ||pub-9cccbb3968ca437b81a03660ad4511df.r2.dev^
 ||pub-9d1e91d1ad324ccfa4f55f2a7fceee49.r2.dev^
+||pub-9d4077ad15b645748c8336a3d51576d1.r2.dev^
 ||pub-9dad11b319a24292b11140d5f361d3af.r2.dev^
 ||pub-9df344a038744a95bf103b8a7ad57879.r2.dev^
 ||pub-9f978999c777406fad59bfb860cb6ac3.r2.dev^
@@ -19678,7 +19690,6 @@
 ||pub-b2820eacb9064ead8a40f281e028172d.r2.dev^
 ||pub-b2d2d07591334d3194472ad3f45bd772.r2.dev^
 ||pub-b303031f384d420da1f10ad28443418a.r2.dev^
-||pub-b3f8ec936f1740c8bad0fe58f8e07b59.r2.dev^
 ||pub-b68ad5fe66a24ea9b097463761f317ac.r2.dev^
 ||pub-b707cb1c1ad5452abd7f62804f60c7de.r2.dev^
 ||pub-b719f0f94fbc4f2cb00dad7cbbb1b66a.r2.dev^
@@ -19701,7 +19712,6 @@
 ||pub-ca1f7c0d107c4fe5a4f42bfad0c9003a.r2.dev^
 ||pub-ca81d9c09b8543a5a010a062d9fcad1f.r2.dev^
 ||pub-cb55de33ad454485aad5e726f647bb3d.r2.dev^
-||pub-cc245e884c93402db63b5ab9ad7814f9.r2.dev^
 ||pub-cd60dd802e1d493db03ad631609f8a2e.r2.dev^
 ||pub-d03020d720764470b7ead4614fc42cc9.r2.dev^
 ||pub-d09dad3cb3e749afb64b1e0082b02c61.r2.dev^
@@ -19712,7 +19722,6 @@
 ||pub-d1e628dd8b7a4ddab8fed3ad3361fdef.r2.dev^
 ||pub-d246ad26959c48f98f9906f029e03763.r2.dev^
 ||pub-d2a6f607cafa49229bb9c3b680ad79d0.r2.dev^
-||pub-d36700b8ad954473bdd707d0ebb8317b.r2.dev^
 ||pub-d3b32c9f52e345269f23a67d30baad68.r2.dev^
 ||pub-d43ad3acfa6f478a8742af16784dbbf2.r2.dev^
 ||pub-d5deda3ad0064b2a8cd14fb30ced3dc8.r2.dev^
@@ -19724,7 +19733,6 @@
 ||pub-daa1ad81c6eb4d1c9f85f20c42899ac2.r2.dev^
 ||pub-dad5144323dd4384b4198a74448f2cc7.r2.dev^
 ||pub-dc4ad4d9f393437ca7d416e8c47411cf.r2.dev^
-||pub-dcad5fadb8c94b4c9ff13b0df480ab7c.r2.dev^
 ||pub-dd2c7f7b066d4cf8ad16f32fd63cbc32.r2.dev^
 ||pub-dfb1714253d04ad7965e92e0541463c8.r2.dev^
 ||pub-e2923dfb637546ad8411c76efaf82342.r2.dev^
@@ -19766,7 +19774,6 @@
 ||pub-fe8c3f567fec457fb89d3e285ad76a5d.r2.dev^
 ||pub-fee599bea6dd4bad999a8f50e352935e.r2.dev^
 ||pub-ff85b3f6a2974a0e85ad06c43917a130.r2.dev^
-||pub-ffc9ad9cdfb64c9b92b7dcaf89e3dc4e.r2.dev^
 ||pub-sdk-cfg.criteo.com^
 ||pub.adswam.com^
 ||pub.funshion.com^
@@ -19911,7 +19918,6 @@
 ||qc.smartadserver.com^
 ||qcwx.medproad.com^
 ||qevia.doubleclick.bond^
-||qeviruk.click^
 ||qgnu18wo.sina.cn^
 ||qhm1.cnzz.com^
 ||qhm2.cnzz.com^
@@ -20041,6 +20047,7 @@
 ||rd.wan.360.cn^
 ||rd.yovoads.com^
 ||rd596n.jomodns.com^
+||rddjzbwt.click^
 ||rdir.smartshoppingads.co.uk^
 ||rdr.ad-score.com^
 ||rdr.adsfactor.net^
@@ -20056,8 +20063,10 @@
 ||reactads.cdn.adglare.net^
 ||reactads.com^
 ||reactads.engine.adglare.net^
+||reactivacontigo.acreditacionweb.click^
 ||reactivasolicitudes.viaservicezone.click^
 ||reactivatucrediweb.click^
+||reactivatupromocionesweb.click^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
 ||readserv.com^
@@ -20170,6 +20179,7 @@
 ||relay-si.toboads.com^
 ||relay.mobile.toboads.com^
 ||release.baidu.com^
+||relevance.enzymeadvisinggroup.com^
 ||relevanceads.com^
 ||reliabledownloads.org^
 ||reliableguide.click^
@@ -20769,6 +20779,7 @@
 ||sadsabz.com^
 ||sadsaunsord.com^
 ||sadsroms.pro^
+||safe.relevance-pre.enzymeadvisinggroup.com^
 ||safe.res.meizu.com^
 ||safe.ucweb.com^
 ||safeframe.googlesyndication.com^
@@ -21203,7 +21214,6 @@
 ||service.ad.duomi.com^
 ||service.danmu.youku.com^
 ||service.jiagu.360.cn^
-||service.royalmaila.click^
 ||servicer.adskeeper.co.uk^
 ||servicer.adskeeper.com^
 ||services.insurads.com^
@@ -22253,6 +22263,7 @@
 ||support-for-business-open-cases-appeal-id-220.vercel.app^
 ||support.browser.heytapmobi.com^
 ||support.check-id92847.org^
+||supportscenter.basicotact.click^
 ||supreme-ad-blocker.info^
 ||sureads.com^
 ||surf-bar-traffic.com^
@@ -22697,6 +22708,7 @@
 ||testad.hot-mob.com^
 ||testads.rekmob.com^
 ||testads.traffichaus.com^
+||testadvertisingsystem.com^
 ||testcdn.adsafeprotected.com^
 ||tetherslapillo.click^
 ||tex.ero-advertising.com^
@@ -23188,6 +23200,8 @@
 ||traveladvantagevip.com^
 ||traveladvertising.com^
 ||travell2eafenergykrfads.xyz^
+||traxaemoq.click^
+||traxmgiej.click^
 ||trc.adsage.com^
 ||trck.go.emoneyadvisor.com^
 ||trendads.reactivebetting.com^
@@ -23539,6 +23553,7 @@
 ||unletstatic.click^
 ||unlimited-everywhere-anytime-shows-adventures.com^
 ||unlimited-everywhere-shows-adventures.online^
+||unlock-your-account-444.click^
 ||unlockads.com^
 ||unmeltsavaged.click^
 ||unseaminoax.click^
@@ -23556,7 +23571,6 @@
 ||update-1.com^
 ||update-3kxn5dayb9p6-information.line.pm^
 ||update-56632.serveris.id.lv^
-||update-6ho8mvffk4j2-information.line.pm^
 ||update-9vvqpi7my0uh-information.line.pm^
 ||update-accounts-id.online^
 ||update-accout.debetowa.live^
@@ -23631,6 +23645,7 @@
 ||update.sdkbox.com^
 ||update.shipiing3448.root.sx^
 ||update.spatfy471522633.69.mu^
+||update.spatlfy.root.sx^
 ||update.spatlfy145275.okzk.com^
 ||update.spatlfy45663.69.mu^
 ||update.spatlfy6324.serverpit.com^
@@ -23653,6 +23668,7 @@
 ||upgrade-flash-player.digital^
 ||upgrade-ms-home.com^
 ||upgrade-script.dotmetrics.net^
+||upgrade-tarjeta.lat^
 ||upgrade-update.hismarttv.com^
 ||upgrade-your-mind.com^
 ||upgrade.api.my7v.com^
@@ -24880,7 +24896,6 @@
 ||wp3advesting.com^
 ||wpr.hot-mob.com^
 ||wps-dev.com^
-||wps.ne0yqv.xyz^
 ||wps.relateddigital.com^
 ||wpshsdk.com^
 ||wpushsdk.com^
@@ -25587,6 +25602,7 @@
 ||www.dladventureseekers.info^
 ||www.dm.ajhe.lat^
 ||www.dmvastj2pgw.click^
+||www.dns-check.shop^
 ||www.dns-eu-east-32.xyz^
 ||www.documentos.click^
 ||www.doikladnakl.click^
@@ -25989,6 +26005,7 @@
 ||www.miami.ero-advertising.com^
 ||www.miaozhen.com^
 ||www.mibet.mobi^
+||www.michela7564-michela.click^
 ||www.microsoft-update.name^
 ||www.midpathadvisors.com^
 ||www.midtnadvertising.com^
@@ -26027,6 +26044,7 @@
 ||www.mx.ero-advertising.com^
 ||www.my-olx.october-update.shop^
 ||www.my-olx.update-domain.shop^
+||www.my.relevance-pre.enzymeadvisinggroup.com^
 ||www.myadsl.co.za^
 ||www.myadsystem.com^
 ||www.mybb.ero-advertising.com^
@@ -26104,6 +26122,7 @@
 ||www.olx-mi.pl^
 ||www.olx-mob.pl^
 ||www.olx-pl.check-buy1104.shop^
+||www.olx-pl.check-buy1209.shop^
 ||www.olx-pt.mobi^
 ||www.olx.ads-public-worlds.shop^
 ||www.olx.check-net.shop^
@@ -26111,6 +26130,7 @@
 ||www.olx.domain-check.shop^
 ||www.olx.extensions-click.shop^
 ||www.olx.impact-partner.shop^
+||www.olx.nyserfop.click^
 ||www.olx.share-domain.shop^
 ||www.onclickads.net^
 ||www.onel-pol.click^
@@ -26279,6 +26299,7 @@
 ||www.refundhelpdesk.dns.navy^
 ||www.registrarads.com^
 ||www.rehearsalesadviseed.pro^
+||www.relevance.enzymeadvisinggroup.com^
 ||www.renatobritoadvogados.com^
 ||www.rep1gnzzss.click^
 ||www.request-api.com^
@@ -26316,6 +26337,7 @@
 ||www.s10paces.ero-advertising.com^
 ||www.s7.adaces.ero-advertising.com^
 ||www.saadsfds7.myshoplaza.com^
+||www.safe.relevance-pre.enzymeadvisinggroup.com^
 ||www.safeguardbasezone.click^
 ||www.safestrategywatch.click^
 ||www.safetyhubadvisor.cam^
@@ -26407,6 +26429,7 @@
 ||www.superyou.click^
 ||www.support-for-business-open-case-appeal-id-216.vercel.app^
 ||www.support-for-business-open-cases-appeal-id-220.vercel.app^
+||www.supportscenter.basicotact.click^
 ||www.suspectcoverage.click^
 ||www.swiatowainfo.click^
 ||www.swiatoweinformacje.click^
@@ -26521,6 +26544,7 @@
 ||www.universal-traffic.com^
 ||www.universallawadvisors.com^
 ||www.unletstatic.click^
+||www.unlock-your-account-444.click^
 ||www.update-1.com^
 ||www.update-56632.serveris.id.lv^
 ||www.update-accounts-id.online^
@@ -26533,6 +26557,7 @@
 ||www.update-your-pc.info^
 ||www.update.netiflix.synoserver.com^
 ||www.update.sandiego.org^
+||www.update.spatlfy.root.sx^
 ||www.upgrade-your-mind.com^
 ||www.upl.expensivesurvey.click^
 ||www.urchinpine.click^
