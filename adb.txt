@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: 2/tii0+olZsuYwHeK1YUDA
+! Checksum: DS1gPfiQiXBP4tgmaJETaA
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-11-23 11:57:04
+! Last modified: 2024-11-23 15:49:20
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-11-23 11:40:11^
+!更新时间: 2024-11-23 15:46:50^
 !提速测试^
-!规则数量:26924^
+!规则数量:26916^
 !GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
 !Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
 !GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
@@ -88,7 +88,14 @@
 ||oth.update.mdt.qq.com^
 ||mtt.eve.mdt.qq.com^
 ||mtt.str.mdt.qq.com^
-
+! biubiu加速器
+||adx-bj.anythinktech.com^
+||adx-bj-req.anythinktech.com^
+||dc.sigmob.cn^
+||cn-api.anythinktech.com^
+||cn-tk.anythinktech.com^
+||tk.anythinktech.com^
+||adx.anythinktech.com^
 
 
 ! 放行一些规则防止误杀
@@ -6961,8 +6968,6 @@
 ||adx-asia-imp.aarki.net^
 ||adx-asia.aarki.net^
 ||adx-bid.tianzhuobj.com^
-||adx-bj-req.anythinktech.com^
-||adx-bj.anythinktech.com^
 ||adx-cn.ads.vungle.com^
 ||adx-cn.anythinktech.com^
 ||adx-core.youku.com^
@@ -7013,7 +7018,6 @@
 ||adx.agrantsem.com^
 ||adx.alimama.com^
 ||adx.ants.vn^
-||adx.anythinktech.com^
 ||adx.apiok.net^
 ||adx.appsdk.com.cn^
 ||adx.baolongan.vn^
@@ -7085,7 +7089,6 @@
 ||adxpremium.services^
 ||adxserver.ad.cmvideo.cn^
 ||adxstatic.vivo.com.cn^
-||adxtk.anythinktech.com^
 ||adz.mobi^
 ||adzrevads.com^
 ||ae.ad.lgsmartad.com^
@@ -11717,7 +11720,6 @@
 ||cmstool.youku.com^
 ||cmvzf.gradspeeches.com^
 ||cmws.iad.apple.com^
-||cn-api.anythinktech.com^
 ||cn-da.anythinktech.com^
 ||cn.ads.justpremium.com^
 ||cn.adserver.yahoo.com^
@@ -12298,7 +12300,6 @@
 ||daten.union-investment.de^
 ||datenaughtysingles.click^
 ||datingadvertising.com^
-||datk.anythinktech.com^
 ||dats.ero-advertising.com^
 ||datt.ero-advertising.com^
 ||daua.ero-advertising.com^
@@ -12318,7 +12319,6 @@
 ||dc.ads.linkedin.com^
 ||dc.api.my7v.com^
 ||dc.cp21.ott.cibntv.net^
-||dc.sigmob.cn^
 ||dc07460091c4937333c7bad878abaaf8.natoplx.pl^
 ||dc1b85a7de913370efdb.goonlinebnparibas-pl.click^
 ||dc38aac5e3c8c6d25e2fc629cad307b9.arutis.pl^
@@ -22827,7 +22827,6 @@
 ||tk-sg.anythinktech.com^
 ||tk.ads.justpremium.com^
 ||tk.ads.mmondi.com^
-||tk.anythinktech.com^
 ||tl.oneway.mobi^
 ||tl40hbc3pvlyrh91s7g573wtwrw8.click-sap.sfmc-marketing.com^
 ||tlmxg8j6rtxk0r3y83b19ptdjk31.click-sap.sfmc-marketing.com^

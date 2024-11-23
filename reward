@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。
 #在相应行的开头加个"#"号
-#更新时间: 2024-11-23 11:40:11
+#更新时间: 2024-11-23 15:46:50
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -15,7 +15,7 @@
 127.0.1.1 hostname
 127.0.1.2 hostname
 127.0.1.3 hostname
-#规则数量:26924
+#规则数量:26916
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 #Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto
 #GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto
@@ -6534,8 +6534,6 @@
 127.0.0.1 adx-asia-imp.aarki.net
 127.0.0.1 adx-asia.aarki.net
 127.0.0.1 adx-bid.tianzhuobj.com
-127.0.0.1 adx-bj-req.anythinktech.com
-127.0.0.1 adx-bj.anythinktech.com
 127.0.0.1 adx-cn.ads.vungle.com
 127.0.0.1 adx-cn.anythinktech.com
 127.0.0.1 adx-core.youku.com
@@ -6586,7 +6584,6 @@
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adx.alimama.com
 127.0.0.1 adx.ants.vn
-127.0.0.1 adx.anythinktech.com
 127.0.0.1 adx.apiok.net
 127.0.0.1 adx.appsdk.com.cn
 127.0.0.1 adx.baolongan.vn
@@ -6658,7 +6655,6 @@
 127.0.0.1 adxpremium.services
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 adxstatic.vivo.com.cn
-127.0.0.1 adxtk.anythinktech.com
 127.0.0.1 adz.mobi
 127.0.0.1 adzrevads.com
 127.0.0.1 ae.ad.lgsmartad.com
@@ -11290,7 +11286,6 @@
 127.0.0.1 cmstool.youku.com
 127.0.0.1 cmvzf.gradspeeches.com
 127.0.0.1 cmws.iad.apple.com
-127.0.0.1 cn-api.anythinktech.com
 127.0.0.1 cn-da.anythinktech.com
 127.0.0.1 cn.ads.justpremium.com
 127.0.0.1 cn.adserver.yahoo.com
@@ -11871,7 +11866,6 @@
 127.0.0.1 daten.union-investment.de
 127.0.0.1 datenaughtysingles.click
 127.0.0.1 datingadvertising.com
-127.0.0.1 datk.anythinktech.com
 127.0.0.1 dats.ero-advertising.com
 127.0.0.1 datt.ero-advertising.com
 127.0.0.1 daua.ero-advertising.com
@@ -11891,7 +11885,6 @@
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dc.api.my7v.com
 127.0.0.1 dc.cp21.ott.cibntv.net
-127.0.0.1 dc.sigmob.cn
 127.0.0.1 dc07460091c4937333c7bad878abaaf8.natoplx.pl
 127.0.0.1 dc1b85a7de913370efdb.goonlinebnparibas-pl.click
 127.0.0.1 dc38aac5e3c8c6d25e2fc629cad307b9.arutis.pl
@@ -22400,7 +22393,6 @@
 127.0.0.1 tk-sg.anythinktech.com
 127.0.0.1 tk.ads.justpremium.com
 127.0.0.1 tk.ads.mmondi.com
-127.0.0.1 tk.anythinktech.com
 127.0.0.1 tl.oneway.mobi
 127.0.0.1 tl40hbc3pvlyrh91s7g573wtwrw8.click-sap.sfmc-marketing.com
 127.0.0.1 tlmxg8j6rtxk0r3y83b19ptdjk31.click-sap.sfmc-marketing.com
