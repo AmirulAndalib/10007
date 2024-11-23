@@ -1,7 +1,6 @@
 ## 去广告
-### 啥也不是？
-#### 版本更新日志
-### [源地址：如果有帮助，请您支持我一下😘！](https://lingeringsound.github.io/10007)
+#### [源地址：如果有帮助，请您支持我一下😘！](https://lingeringsound.github.io/10007)
+#### [蓝奏云下载](https://keytoolazy.lanzn.com/b03j67j0f)，密码:`666`
 
 - **说明**
  > 模块下载后有`README.md`文件，请自行阅读。
