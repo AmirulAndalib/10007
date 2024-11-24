@@ -10,7 +10,7 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
--v205
+>v205
  - 去除伪加密，**但是自己下了盗版被格机不要来找我**。
  - 添加一个`ads_monitor`，监控广告文件生成，不需要可以在`配置.prop`修改，或者删除`/data/adb/modules/GGAT_10007/mod/ads_monitor`。
  - 更新了部分应用开屏广告。
