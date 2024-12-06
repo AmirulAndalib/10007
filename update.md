@@ -10,11 +10,10 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v205
- - 去除伪加密，**但是自己下了盗版被格机不要来找我**。
- - 添加一个`ads_monitor`，监控广告文件生成，不需要可以在`配置.prop`修改，或者删除`/data/adb/modules/GGAT_10007/mod/ads_monitor`。
- - 更新了部分应用开屏广告。
->215
- - 修复老版酷安闪退问题(`删除了加固文件`)
- - 用`anythink`sdk的广告奖励有问题，不知道要不要放行，毕竟`iptables`规则太多也会影响网速。
- 
+>216
+ - 微信广告奖励域名添加，执行`/data/adb/modules/GGAT_10007/action.sh`可自由切换放行和禁用。
+```
+wxa.wxs.qq.com
+wximg.wxs.qq.com
+wxsmw.wxs.qq.com
+```
