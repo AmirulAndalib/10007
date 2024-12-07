@@ -17,3 +17,5 @@ wxa.wxs.qq.com
 wximg.wxs.qq.com
 wxsmw.wxs.qq.com
 ```
+>v217
+ - 添加广告放行奖励脚本，在`/data/adb/modules/GGAT_10007/mod/广告奖励/reward.sh`，另一个是拦截脚本，可手动执行。
