@@ -10,12 +10,7 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->216
- - 微信广告奖励域名添加，执行`/data/adb/modules/GGAT_10007/action.sh`可自由切换放行和禁用。
-```
-wxa.wxs.qq.com
-wximg.wxs.qq.com
-wxsmw.wxs.qq.com
-```
 >v217
  - 添加广告放行奖励脚本，在`/data/adb/modules/GGAT_10007/mod/广告奖励/reward.sh`，另一个是拦截脚本，可手动执行。
+>v219
+ - `kernel su`和`Apatch`会以`overlay-fs`方式挂载，不要再问环境问题了。
