@@ -14,3 +14,9 @@
  - 添加广告放行奖励脚本，在`/data/adb/modules/GGAT_10007/mod/广告奖励/reward.sh`，另一个是拦截脚本，可手动执行。
 >v219
  - `kernel su`和`Apatch`会以`overlay-fs`方式挂载，不要再问环境问题了。
+>v220
+ - 放行网易云听歌统计。
+ ```
+ clientlog.music.163.com
+ clientlog3.music.163.com
+ ```
