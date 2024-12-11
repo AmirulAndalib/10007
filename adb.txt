@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N3Tt5IJj5QK7umKnvOobNw
+! Checksum: DsrkhRXhlKqaROE9rfmxzA
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-12-11 20:03:06
+! Last modified: 2024-12-12 02:57:10
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
@@ -441,10 +441,10 @@
 ! @@||api.ad.xiaomi.com^$document
 ! @@||globalapi.ad.xiaomi.com^$document
 ! 网易云蜗牛阅读
-||du.163.com^$document
+@@||du.163.com^$document
 ! 网易云音乐听歌统计
-||clientlog*music.163.com^$document
-||clientlog3.music.163.com^$document
+@@||clientlog*music.163.com^$document
+@@||clientlog3.music.163.com^$document
 
 
 ! 添加一些规则
@@ -469,8 +469,8 @@
 /api/index/splash_ad
 ||frodo.douban.com/api/v2/erebor/feed_ad
 ||douban.com/count/
-! 网易
-! ||interface*.music.163.com/eapi/ad/
+! 网易云音乐
+||interface*.music.163.com/eapi/ad
 ! 书旗小说
 ||shuqireader.com/api/ad/adserver
 /api/ad/adserver/
