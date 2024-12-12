@@ -20,3 +20,5 @@
  clientlog.music.163.com
  clientlog3.music.163.com
  ```
+>v221
+ - 优化`kernel su`挂载脚本。

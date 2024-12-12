@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。
 #在相应行的开头加个"#"号
-#更新时间: 2024-12-11 20:02:39
+#更新时间: 2024-12-12 14:22:20
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -15,7 +15,7 @@
 127.0.1.1 hostname
 127.0.1.2 hostname
 127.0.1.3 hostname
-#规则数量:27752
+#规则数量:27759
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 #Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto
 #GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto
@@ -747,7 +747,6 @@
 127.0.0.1 account.coordinatoins.click
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 accounts.google.auzen.us.kg
-127.0.0.1 accounts.google.sn.cn
 127.0.0.1 accounts.setlings.click
 127.0.0.1 accounts.winniing.click
 127.0.0.1 accscdn.m.taobao.com
@@ -6253,6 +6252,7 @@
 127.0.0.1 advendi.de
 127.0.0.1 advendor.g2afse.com
 127.0.0.1 adveng.hiasys.com
+127.0.0.1 advent-discount.luckypickr.com
 127.0.0.1 adventcalendarhouse.com
 127.0.0.1 adventertainment.it
 127.0.0.1 adventori.com
@@ -6824,7 +6824,6 @@
 127.0.0.1 afhleads.keurig.ca
 127.0.0.1 afiletoget.click
 127.0.0.1 afiliapub.click
-127.0.0.1 afksdfisf.click
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afp.qiyi.com
 127.0.0.1 afpeng.alimama.com
@@ -9202,7 +9201,6 @@
 127.0.0.1 api.verticalscope.com
 127.0.0.1 api.vh79.com
 127.0.0.1 api.viafoura.co
-127.0.0.1 api.vici-lab.com
 127.0.0.1 api.videometrics.ted.com
 127.0.0.1 api.vidora.com
 127.0.0.1 api.vidy.com
@@ -9482,6 +9480,7 @@
 127.0.0.1 asm3.z1.adserver.com
 127.0.0.1 asmedia.adsupplyssl.com
 127.0.0.1 asp.adsame.com
+127.0.0.1 aspect-upush.umeng.com
 127.0.0.1 asr.ladsp.jp
 127.0.0.1 asset.adserver.vrizead.com
 127.0.0.1 assetaccelerator.click
@@ -10543,7 +10542,6 @@
 127.0.0.1 ca.adserver.yahoo.com
 127.0.0.1 ca.clcknads.pro
 127.0.0.1 ca.iadsdk.apple.com
-127.0.0.1 ca.nadapostal.click
 127.0.0.1 ca4-bid.adsrvr.org
 127.0.0.1 ca9295aca2944edad5e800d8a358e8c5.niflos.pl
 127.0.0.1 caaw.interfoxprog.click
@@ -11145,6 +11143,7 @@
 127.0.0.1 click-v4.junexclkmid.com
 127.0.0.1 click-v4.plarimoexocli.com
 127.0.0.1 click-west.acuityplatform.com
+127.0.0.1 click-xxnewsdna.msbrewcc.my.id
 127.0.0.1 click.a-ads.com
 127.0.0.1 click.aabacosmallbusiness.com
 127.0.0.1 click.aaptiv.com
@@ -12639,6 +12638,7 @@
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
 127.0.0.1 download.doumaibiji.cn
+127.0.0.1 download.emailorganizer.com
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -13120,7 +13120,6 @@
 127.0.0.1 elonxx.projectprog.click
 127.0.0.1 eloqua.petchem-update.com
 127.0.0.1 elqtracking.justadviser.com
-127.0.0.1 elta-postal.click
 127.0.0.1 elymusyomin.click
 127.0.0.1 elysianelmcam.click
 127.0.0.1 elzbieta.everadpro.click
@@ -13496,6 +13495,7 @@
 127.0.0.1 fam-ad.com
 127.0.0.1 famafakty.click
 127.0.0.1 familicantics.click
+127.0.0.1 fanebod.click
 127.0.0.1 fanners.ero-advertising.com
 127.0.0.1 fanpages.advanted-setting-help.com
 127.0.0.1 fanserv.us-east-1.stinger-ad.bidr.io
@@ -13803,7 +13803,6 @@
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 fsastore.adspeed.net
 127.0.0.1 fshe.fallz.click
-127.0.0.1 fsjdfjoef.click
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 fstatic.iadvize.com
 127.0.0.1 fsuseaad1.blob.core.windows.net
@@ -13841,6 +13840,7 @@
 127.0.0.1 fwapi.adsafeprotected.com
 127.0.0.1 fwvc.adsafeprotected.com
 127.0.0.1 fxadviceformeandyou.com
+127.0.0.1 fxgate.baidu.com
 127.0.0.1 fylkerooecium.click
 127.0.0.1 fyls88zqyb.content-ad.net
 127.0.0.1 g.163.com
@@ -14212,7 +14212,6 @@
 127.0.0.1 google-analytics-cn.com
 127.0.0.1 google-analytics.bi.owox.com
 127.0.0.1 google-analytics.com
-127.0.0.1 google-authenticator.vip
 127.0.0.1 google-bate.top
 127.0.0.1 google-bewertungen-kaufen.net
 127.0.0.1 google-conversion.hiido.com
@@ -14381,6 +14380,7 @@
 127.0.0.1 h.msn.com
 127.0.0.1 h092021u.click
 127.0.0.1 h1.msn.com
+127.0.0.1 h2.vn1-cn.dzifast.click
 127.0.0.1 h250p-y3urn.ads.tremorhub.com
 127.0.0.1 h353.ncadvertiser.com
 127.0.0.1 h5.analytics.126.net
@@ -15984,7 +15984,6 @@
 127.0.0.1 lehmergambits.click
 127.0.0.1 leiki-doubleclick-proxy.appspot.com
 127.0.0.1 leonardoadv.it
-127.0.0.1 leronivus.click
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 lev.prot-rad.top
@@ -16340,6 +16339,7 @@
 127.0.0.1 ludziepomocni.click
 127.0.0.1 ludzkaciekawosc.click
 127.0.0.1 ludzkiepriorytety.click
+127.0.0.1 luimg.baidu.com
 127.0.0.1 lumileads.g2afse.com
 127.0.0.1 lumos.click
 127.0.0.1 lunarads.com
@@ -16588,6 +16588,7 @@
 127.0.0.1 marketing2.technologyadvice.com
 127.0.0.1 marketingleads4u.com
 127.0.0.1 marketingplatform.google.com
+127.0.0.1 marketpiace-center-check-reportst-fun.click
 127.0.0.1 marketsfocus.click
 127.0.0.1 marketsview.click
 127.0.0.1 markettadvisor.buzz
@@ -17817,6 +17818,7 @@
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 nsmetrics.geelongadvertiser.com.au
+127.0.0.1 nsndjsiwk.click
 127.0.0.1 nspt.bdstatic.com
 127.0.0.1 nssoahlyadvb.xyz
 127.0.0.1 nstest-range56-169xroads.blogrange86-179xroads.b2bmktg.com
@@ -18190,7 +18192,6 @@
 127.0.0.1 open.jerat.top
 127.0.0.1 open.kidu.com
 127.0.0.1 open.kuaishouzt.com
-127.0.0.1 open.kwaishouzt.com
 127.0.0.1 open.kwaizt.com
 127.0.0.1 open.liveapp.cn
 127.0.0.1 open.majelan.com
@@ -19517,6 +19518,7 @@
 127.0.0.1 profi-mast.ofishlprog3.click
 127.0.0.1 profiklews.click
 127.0.0.1 profile-api-prod-elb.53.localytics.com
+127.0.0.1 profile-api.amplitude.com
 127.0.0.1 profile.reqquest.click
 127.0.0.1 profile.structture.click
 127.0.0.1 profile.suggestings.click
@@ -19864,6 +19866,7 @@
 127.0.0.1 pub-fa4aa7f0a7ad49d48cd632a04612254e.r2.dev
 127.0.0.1 pub-faa693cd74ad4afb82b316acd61a927d.r2.dev
 127.0.0.1 pub-fb083ff96a084263810de1145c98cad6.r2.dev
+127.0.0.1 pub-fb4b6997de7943209fc7ec0be437ad8c.r2.dev
 127.0.0.1 pub-fe8c3f567fec457fb89d3e285ad76a5d.r2.dev
 127.0.0.1 pub-fee599bea6dd4bad999a8f50e352935e.r2.dev
 127.0.0.1 pub-ff85b3f6a2974a0e85ad06c43917a130.r2.dev
@@ -21274,6 +21277,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 security-hl.snssdk.com
 127.0.0.1 security-lq.snssdk.com
+127.0.0.1 security-service-api-link.cc
 127.0.0.1 security-update.ddns.info
 127.0.0.1 security-update.ocry.com
 127.0.0.1 security-update.qhigh.com
@@ -21375,7 +21379,6 @@
 127.0.0.1 servientregacm.click
 127.0.0.1 servientregacx.click
 127.0.0.1 servientregacz.click
-127.0.0.1 servientregals.click
 127.0.0.1 servientregamn.click
 127.0.0.1 servientregaop.click
 127.0.0.1 servientregapo.click
@@ -22546,6 +22549,7 @@
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
 127.0.0.1 supportscenter.basicotact.click
+127.0.0.1 supprt-marke-metai1.click
 127.0.0.1 supreme-ad-blocker.info
 127.0.0.1 sureads.com
 127.0.0.1 surf-bar-traffic.com
@@ -23855,7 +23859,6 @@
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 upage.imtt.qq.com
-127.0.0.1 update-0c5z3oxr4jxq-information.line.pm
 127.0.0.1 update-1.com
 127.0.0.1 update-3kxn5dayb9p6-information.line.pm
 127.0.0.1 update-56632.serveris.id.lv
@@ -23920,7 +23923,6 @@
 127.0.0.1 update.postimp-ofw.fyber.com
 127.0.0.1 update.privdog.com
 127.0.0.1 update.purina.com
-127.0.0.1 update.rekutanshopjpa.top
 127.0.0.1 update.rubiconproject.com
 127.0.0.1 update.sandiego.org
 127.0.0.1 update.sdk.batmobi.net
@@ -23960,6 +23962,7 @@
 127.0.0.1 upgrade-your-mind.com
 127.0.0.1 upgrade.api.my7v.com
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 upgrade.readiwork.com
 127.0.0.1 upgrade.thejeu.com
 127.0.0.1 upl.expensivesurvey.click
 127.0.0.1 upliftedworldbeacon.click
@@ -24915,6 +24918,7 @@
 127.0.0.1 wcdn.megawin88.mobi
 127.0.0.1 wcdn.sdjlbg.xyz
 127.0.0.1 wcdn.vbet88.fun
+127.0.0.1 wcp.taobao.com
 127.0.0.1 wct.click
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 wdata.ero-advertising.com
@@ -25616,6 +25620,7 @@
 127.0.0.1 www.advcommunication.it
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.advenations.com
+127.0.0.1 www.advent-discount.luckypickr.com
 127.0.0.1 www.adventcalendarhouse.com
 127.0.0.1 www.adventori.com
 127.0.0.1 www.adventuratrips.com
@@ -25969,6 +25974,7 @@
 127.0.0.1 www.dmvastj2pgw.click
 127.0.0.1 www.dns-check.shop
 127.0.0.1 www.dns-eu-east-32.xyz
+127.0.0.1 www.docs-google.com
 127.0.0.1 www.doikladnakl.click
 127.0.0.1 www.dolanadserver.com
 127.0.0.1 www.dooyoouwoorkherre-354128.click
@@ -26049,6 +26055,7 @@
 127.0.0.1 www.facebook-ads.pl
 127.0.0.1 www.facebook.locationactor.click
 127.0.0.1 www.fajny-bon.click
+127.0.0.1 www.fanebod.click
 127.0.0.1 www.fanners.ero-advertising.com
 127.0.0.1 www.fanpages.advanted-setting-help.com
 127.0.0.1 www.fast-adv.it
@@ -26805,6 +26812,7 @@
 127.0.0.1 www.supporrtadvertissing.com
 127.0.0.1 www.support-ads-team-874a1.firebaseapp.com
 127.0.0.1 www.supportscenter.basicotact.click
+127.0.0.1 www.supprt-marke-metai1.click
 127.0.0.1 www.suspectcoverage.click
 127.0.0.1 www.swiatowainfo.click
 127.0.0.1 www.swiatoweinformacje.click
@@ -27645,7 +27653,6 @@
 127.0.0.1 zerads.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
-127.0.0.1 zevotiran.click
 127.0.0.1 zginelodziecko.click
 127.0.0.1 zgloszenieinfo.click
 127.0.0.1 zgloszeniewladz.click
