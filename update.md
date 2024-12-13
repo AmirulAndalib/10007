@@ -12,3 +12,6 @@
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
 >v222
  - 把`coolapk`的`/data/user/0/com.coolapk.market/databases`里面的穿山甲给扬了，byd看不到广告就天天往里面写日志，占了1个G了。
+>v223
+ - `kernel su`改为`mount --bind`挂载。
+ 
