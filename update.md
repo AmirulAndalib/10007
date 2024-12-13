@@ -10,15 +10,5 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v217
- - 添加广告放行奖励脚本，在`/data/adb/modules/GGAT_10007/mod/广告奖励/reward.sh`，另一个是拦截脚本，可手动执行。
->v219
- - `kernel su`和`Apatch`会以`overlay-fs`方式挂载，不要再问环境问题了。
->v220
- - 放行网易云听歌统计。
- ```
- clientlog.music.163.com
- clientlog3.music.163.com
- ```
->v221
- - 优化`kernel su`挂载脚本。
+>v222
+ - 把`coolapk`的`/data/user/0/com.coolapk.market/databases`里面的穿山甲给扬了，byd看不到广告就天天往里面写日志，占了1个G了。
