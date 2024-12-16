@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: x7JKAsoZxArlYCdHYBOtkA
+! Checksum: V5lA6HECQexGnsbSaLzdfQ
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-12-16 14:31:53
+! Last modified: 2024-12-16 16:15:22
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -483,6 +483,21 @@
 @@||p-l.play.aiseet.atianqi.com^$document
 ! 支付宝
 @@||mmstat.com^$document
+!  支付宝以及淘宝农场任务
+@@||audid-api.taobao.com^$document
+@@||audid-api-sg.taobao.com^$document
+! 139邮箱
+@@||ad.mcloud.139.com^$document
+! 百度贴吧签到
+@@||als.baidu.com^$document
+! skype
+@@||browser.pipe.aria.microsoft.com^$document
+@@||evtubescms.phncdn.com^$document
+@@||c1.skype.com^$document
+@@||events.data.microsoft.com^$document
+@@||mobile.pipe.aria.microsoft.com^$document
+! mytvsuper
+@@||imasdk.googleapis.com^$document
 
 ! 添加一些规则
 ||s.360.cn^$important
@@ -1995,7 +2010,6 @@
 ||ad.mangareader.net^
 ||ad.mastermedia.ru^
 ||ad.mazc.org^
-||ad.mcloud.139.com^
 ||ad.mdmd.info^
 ||ad.mds.lv^
 ||ad.meck.top^
@@ -7446,7 +7460,6 @@
 ||alphaads.de^
 ||alphaapi.autoads.asia^
 ||alpistidotea.click^
-||als.baidu.com^
 ||alt-ad.mail.ru^
 ||alternads.info^
 ||alternativos.iw-advertising.com^
@@ -10038,8 +10051,6 @@
 ||auctionads.com^
 ||auctionads.net^
 ||auctionnn.click^
-||audid-api-sg.taobao.com^
-||audid-api.taobao.com^
 ||audid.umeng.com^
 ||audimark.adswizz.com^
 ||audiogo.adswizz.com^
@@ -10857,7 +10868,6 @@
 ||browser.events.data.msn.cn^
 ||browser.events.data.msn.com^
 ||browser.gamingqogs.life^
-||browser.pipe.aria.microsoft.com^
 ||browser.sensorbuqnn.pro^
 ||browser.sentry-cdn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -13870,7 +13880,6 @@
 ||evs.proxy.analytics.shutterstock.com^
 ||evsonnuqu.advicehigh.quest^
 ||evt-api.ntm.eu^
-||evtubescms.phncdn.com^
 ||ew1-dv.naiadsystems.com^
 ||ew1-ls.naiadsystems.com^
 ||ew1b-dv.naiadsystems.com^
@@ -15451,7 +15460,6 @@
 ||imagevenue.advertserve.com^
 ||imap.adx1.com^
 ||imapi-sg.isnssdk.com^
-||imasdk.googleapis.com^
 ||imc.l.qq.com^
 ||imdb.amazon-adsystem.com^
 ||imeds.ero-advertising.com^
@@ -17223,7 +17231,6 @@
 ||mclick.mobi^
 ||mclick.simba.taobao.com^
 ||mcoreads.com^
-||mcs.snssdk.com^
 ||mcs.zijieapi.com^
 ||mcteirx.click^
 ||mdp-appconf-sg.heytapdl.com^
@@ -22510,7 +22517,6 @@
 ||sp.montgomeryadvertiser.com^
 ||sp.newarkadvocate.com^
 ||sp.theadvertiser.com^
-||sp1.baidu.com^
 ||sp3.baidu.com^
 ||spaceframe.mobi.space-frame.co.za^
 ||spaceleadster.com^
@@ -24205,7 +24211,6 @@
 ||u.x.jd.com^
 ||u0.extreme-dm.com^
 ||u1.extreme-dm.com^
-||u1.img.mobile.sina.cn^
 ||ua-myfitnesspal.adsbynimbus.com^
 ||ua.ad.lgsmartad.com^
 ||ua.supersonicads.com^
@@ -24762,7 +24767,6 @@
 ||vcdn.media.innity.net^
 ||vcdn.subiz-cdn.com^
 ||vcdn.tsyndicate.com^
-||vcs.snssdk.com^
 ||vcs.zijieapi.com^
 ||vdacon-pts.click^
 ||vdaconza.click^
@@ -25422,7 +25426,6 @@
 ||wb.110.taobao.com^
 ||wb.gtimg.com^
 ||wbads.vo.llnwd.net^
-||wbapp.mobile.sina.cn^
 ||wbapp.uve.weibo.com^
 ||wbclick.mobile.sina.cn^
 ||wbksead91t1p7cduirkk6akg.basicbeautys.com^

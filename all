@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。
 #在相应行的开头加个"#"号
-#更新时间: 2024-12-16 14:30:42
+#更新时间: 2024-12-16 16:14:14
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -15,7 +15,7 @@
 127.0.1.1 hostname
 127.0.1.2 hostname
 127.0.1.3 hostname
-#规则数量:27784
+#规则数量:27772
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 #Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto
 #GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto
@@ -1506,7 +1506,6 @@
 127.0.0.1 ad.mangareader.net
 127.0.0.1 ad.mastermedia.ru
 127.0.0.1 ad.mazc.org
-127.0.0.1 ad.mcloud.139.com
 127.0.0.1 ad.mdmd.info
 127.0.0.1 ad.mds.lv
 127.0.0.1 ad.meck.top
@@ -6957,7 +6956,6 @@
 127.0.0.1 alphaads.de
 127.0.0.1 alphaapi.autoads.asia
 127.0.0.1 alpistidotea.click
-127.0.0.1 als.baidu.com
 127.0.0.1 alt-ad.mail.ru
 127.0.0.1 alternads.info
 127.0.0.1 alternativos.iw-advertising.com
@@ -9549,8 +9547,6 @@
 127.0.0.1 auctionads.com
 127.0.0.1 auctionads.net
 127.0.0.1 auctionnn.click
-127.0.0.1 audid-api-sg.taobao.com
-127.0.0.1 audid-api.taobao.com
 127.0.0.1 audid.umeng.com
 127.0.0.1 audimark.adswizz.com
 127.0.0.1 audiogo.adswizz.com
@@ -10368,7 +10364,6 @@
 127.0.0.1 browser.events.data.msn.cn
 127.0.0.1 browser.events.data.msn.com
 127.0.0.1 browser.gamingqogs.life
-127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser.sensorbuqnn.pro
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 browsercfg-drcn.cloud.dbankcloud.cn
@@ -13381,7 +13376,6 @@
 127.0.0.1 evs.proxy.analytics.shutterstock.com
 127.0.0.1 evsonnuqu.advicehigh.quest
 127.0.0.1 evt-api.ntm.eu
-127.0.0.1 evtubescms.phncdn.com
 127.0.0.1 ew1-dv.naiadsystems.com
 127.0.0.1 ew1-ls.naiadsystems.com
 127.0.0.1 ew1b-dv.naiadsystems.com
@@ -14962,7 +14956,6 @@
 127.0.0.1 imagevenue.advertserve.com
 127.0.0.1 imap.adx1.com
 127.0.0.1 imapi-sg.isnssdk.com
-127.0.0.1 imasdk.googleapis.com
 127.0.0.1 imc.l.qq.com
 127.0.0.1 imdb.amazon-adsystem.com
 127.0.0.1 imeds.ero-advertising.com
@@ -16734,7 +16727,6 @@
 127.0.0.1 mclick.mobi
 127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 mcoreads.com
-127.0.0.1 mcs.snssdk.com
 127.0.0.1 mcs.zijieapi.com
 127.0.0.1 mcteirx.click
 127.0.0.1 mdp-appconf-sg.heytapdl.com
@@ -22021,7 +22013,6 @@
 127.0.0.1 sp.montgomeryadvertiser.com
 127.0.0.1 sp.newarkadvocate.com
 127.0.0.1 sp.theadvertiser.com
-127.0.0.1 sp1.baidu.com
 127.0.0.1 sp3.baidu.com
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 spaceleadster.com
@@ -23716,7 +23707,6 @@
 127.0.0.1 u.x.jd.com
 127.0.0.1 u0.extreme-dm.com
 127.0.0.1 u1.extreme-dm.com
-127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 ua-myfitnesspal.adsbynimbus.com
 127.0.0.1 ua.ad.lgsmartad.com
 127.0.0.1 ua.supersonicads.com
@@ -24273,7 +24263,6 @@
 127.0.0.1 vcdn.media.innity.net
 127.0.0.1 vcdn.subiz-cdn.com
 127.0.0.1 vcdn.tsyndicate.com
-127.0.0.1 vcs.snssdk.com
 127.0.0.1 vcs.zijieapi.com
 127.0.0.1 vdacon-pts.click
 127.0.0.1 vdaconza.click
@@ -24933,7 +24922,6 @@
 127.0.0.1 wb.110.taobao.com
 127.0.0.1 wb.gtimg.com
 127.0.0.1 wbads.vo.llnwd.net
-127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbapp.uve.weibo.com
 127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 wbksead91t1p7cduirkk6akg.basicbeautys.com
