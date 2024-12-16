@@ -10,8 +10,8 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v225
- - 修复`起点阅读`无法放行广告的bug，不生效自己清理缓存也是可以的。
->v226
- - 非`kernel su`用户可以不更新，最后一次尝试修复`kernel su`挂载了，实在不行，我推荐用其他hosts管理器挂载，例如Adaway。
+>v227
+ - 懒得管什么`kernel su`漏不漏环境的问题了，照着[kernel su的官方文档](https://kernelsu.org/zh_CN/guide/faq.html)推荐的[模块](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)抄了命令，不行？好！用`mount --bind`？不行？读取不到`/sdcard`？6
+ - 后来一看这个仓库，[bindhosts](https://github.com/backslashxx/bindhosts)，好家伙，有好几种挂载方式，`ksu_susfs`我也没用过，爱咋咋地吧，我还在`Android 10`呢，这原本也是magisk模块，`kernel su`咋样我也不管了。
+ 
  
