@@ -1,19 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x8sBAlyz/0nBJOgxSSZYSQ
+! Checksum: x7JKAsoZxArlYCdHYBOtkA
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2024-12-16 10:36:04
+! Last modified: 2024-12-16 14:31:53
 ! Homepage: https://github.com/lingeringsound/10007_auto 
-!@coolapk 1007^
-!有问题可以在文件里搜索关键词^
-!例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"。^
-!在相应行的开头加个"#"号^
-!更新时间: 2024-12-16 10:36:01^
-!提速测试^
-!规则数量:27814^
-!GIthub订阅主页: https://github.com/lingeringsound/10007_auto^
-!Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto^
-!GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto^
 
 
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
@@ -363,7 +353,7 @@
 ! 百度手机输入法
 @@||udpolimenew.baidu.com^$document
 @@||mime.baidu.com^$document
-#淘宝
+! 淘宝
 @@||amdc.m.taobao.com^$document
 @@||click.mz.simba.taobao.com^$document
 @@||s.click.taobao.com^$document
@@ -445,7 +435,54 @@
 ! 网易云音乐听歌统计
 @@||clientlog*music.163.com^$document
 @@||clientlog3.music.163.com^$document
-
+! 抖音订单
+@@||haohuo.snssdk.com^$document
+! 联通营业厅
+@@||ad.10010.com^$document
+! 其他规则白名单
+! play商店
+@@||app.adjust.com^$document
+! 阿里巴巴
+@@||ad.alimama.com^$document
+@@||alimama.com^$document
+@@||ad.jp^$document
+@@||ad.ourgame.com^$document
+@@||retcode.taobao.com^$document
+@@||m.intl.taobao.com^$document
+@@||advertisement.taobao.com^$document
+@@||tbskip.taobao.com^$document
+@@||eco.taobao.com^$document
+! 抖音
+@@||ads.com^$document
+@@||ads.tiktok.com^$document
+@@||adv.blogupp.com^$document
+! adobe
+@@||na1r.services.adobe.com^$document
+@@||ereg.adobe.com^$document
+@@||lmlicenses.wip4.adobe.com^$document
+! 哔哩哔哩
+@@||live-trace.bilibili.com^$document
+@@||g.msn.com^$document
+! 腾讯视频
+@@||c.gj.qq.com^$document
+@@||vd.l.qq.com^$document
+@@||mini2015.qq.com^$document
+@@||soup.v.qq.com^$document
+! 百度贴吧
+@@||gsp1.baidu.com^$document
+@@||sp0.baidu.com^$document
+@@||sp2.baidu.com^$document
+@@||fexclick.baidu.com^$document
+@@||bce.baidu.com^$document
+@@||bj.bcebos.com^$document
+! 新浪微博
+@@||sax.sina.com.cn^$document
+! NOMO APP
+@@||sdkapi.sms.mob.com^$document
+@@||news-l.play.aiseet.atianqi.com^$document
+@@||p-l.play.aiseet.atianqi.com^$document
+! 支付宝
+@@||mmstat.com^$document
 
 ! 添加一些规则
 ||s.360.cn^$important
@@ -1434,7 +1471,6 @@
 ||ad-wisteria.excite.co.jp^
 ||ad-wzx.sbs^
 ||ad-x.co.uk^
-||ad.10010.com^
 ||ad.103092804.com^
 ||ad.12306.cn^
 ||ad.163.com^
@@ -1532,7 +1568,6 @@
 ||ad.agrantsem.com^
 ||ad.aim-universe.co.jp^
 ||ad.ajitad.co.kr^
-||ad.alimama.com^
 ||ad.allboxing.ru^
 ||ad.alldatasheet.com^
 ||ad.allyes.cn^
@@ -2050,7 +2085,6 @@
 ||ad.osen.co.kr^
 ||ad.otomoto.pl^
 ||ad.oujdacity.net^
-||ad.ourgame.com^
 ||ad.outstream.today^
 ||ad.owlair.net^
 ||ad.oyy.ru^
@@ -4576,7 +4610,6 @@
 ||ads.tibaco.net^
 ||ads.tiki.vn^
 ||ads.tikpage.com^
-||ads.tiktok.com^
 ||ads.timesjobsandcareers.com^
 ||ads.timesunion.com^
 ||ads.tirabol.cat^
@@ -6524,7 +6557,6 @@
 ||adv.baotintuc.vn^
 ||adv.baovemoitruong.org.vn^
 ||adv.bbanner.it^
-||adv.blogupp.com^
 ||adv.blulab.net^
 ||adv.bokra.net^
 ||adv.bullguard.com^
@@ -7378,7 +7410,6 @@
 ||alidellads.com.alidellgroup.com^
 ||aliexpress-summer.cityads.com^
 ||alimama.alicdn.com^
-||alimama.com^
 ||alisa.tentaklsistem.click^
 ||alitui.weibo.com^
 ||all.cnzz.com.danuoyi.tbcache.com^
@@ -9776,7 +9807,6 @@
 ||app-range86-129xroads.b2bmktg.com^
 ||app-worker.visitor-analytics.io^
 ||app.233.toponad.com^
-||app.adjust.com^
 ||app.adjust.io^
 ||app.adjust.net.in^
 ||app.adjust.world^
@@ -10420,7 +10450,6 @@
 ||bc7f1fbd6758a9354e9bb8ad51fbe5b3.wurp.pl^
 ||bcava-api-docs.gbc.criteo.com^
 ||bcdn-god.we-stats.com^
-||bce.baidu.com^
 ||bce.bj.ad.track.66mobi.com^
 ||bcfads.com^
 ||bcpad34.iad.loc.crwdcntrl.net^
@@ -10611,7 +10640,6 @@
 ||bj-api.ad.jiguang.cn^
 ||bj.ad.track.66mobi.com^
 ||bj.appsrv1.madserving.com^
-||bj.bcebos.com^
 ||bj.imp.voiceads.cn^
 ||bjads.bejbej.ca^
 ||bjdata.ads.oppomobile.com^
@@ -10949,7 +10977,6 @@
 ||c.etoolads.cn^
 ||c.fi.msn.com^
 ||c.fr.msn.com^
-||c.gj.qq.com^
 ||c.gr.msn.com^
 ||c.hk.msn.com^
 ||c.iads.unity3d.com^
@@ -13692,7 +13719,6 @@
 ||er6785sc.click^
 ||eraticdraw.click^
 ||erebor.douban.com^
-||ereg.adobe.com^
 ||ererww.tentaklsistem.click^
 ||ero-advertising.com^
 ||eroadvertising.com^
@@ -14043,7 +14069,6 @@
 ||festivepresents.click^
 ||fetchingball.click^
 ||fex.bdstatic.com^
-||fexclick.baidu.com^
 ||ff.doubleclick.net^
 ||ffffff.tx1tx.click^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
@@ -14342,7 +14367,6 @@
 ||g.dtv.cn.miaozhen.com^
 ||g.jp.miaozhen.com^
 ||g.jssdk.net^
-||g.msn.com^
 ||g.s.360.cn^
 ||g.sdk.look.360.cn^
 ||g.tech.downloads.pos.fs.account.azure.on.t.instagram.cp.acbhk0.gbc.criteo.com^
@@ -14819,7 +14843,6 @@
 ||gsksdkdaints.site^
 ||gslbali.ximalaya.com^
 ||gsntqpwadvhm.com^
-||gsp1.baidu.com^
 ||gsraf.gradspeeches.com^
 ||gt.ads.justpremium.com^
 ||gt091102204euc.click^
@@ -14918,7 +14941,6 @@
 ||hanlanad.com^
 ||hao.360.cn^
 ||hao123.xywy.com^
-||haohuo.snssdk.com^
 ||haostat.qihoo.com^
 ||happly-ad.cfd^
 ||happyjourney.click^
@@ -16352,7 +16374,6 @@
 ||l.dm.casio.info^
 ||l.gm.mob.com^
 ||l.p2p-union.com^
-||l.qq.com^
 ||l.tcp.push.mob.com^
 ||l2.l.qq.com^
 ||l3.aaxads.com^
@@ -16610,7 +16631,6 @@
 ||live-api.oncustomer.asia^
 ||live-p.click^
 ||live-redpackrain.ksapisrv.com^
-||live-trace.bilibili.com^
 ||live.ksapisrv.com^
 ||live.rads.msn.com^
 ||live.xunlei.com^
@@ -16647,7 +16667,6 @@
 ||llogin-mail-update-verif.articulturalland.com^
 ||llxads.com^
 ||lmadvertising.engine.adglare.net^
-||lmlicenses.wip4.adobe.com^
 ||lnads.osdn.com^
 ||lner-api.exponea.com^
 ||lnp0st.adzas.click^
@@ -17434,7 +17453,6 @@
 ||mine.baidu.com^
 ||mineralstone.click^
 ||mini.hao123.com^
-||mini2015.qq.com^
 ||miniapp-ad.cdn.bcebos.com^
 ||miniapp.qiluyidian.mobi^
 ||minigame5-normal-hl.zijieapi.com^
@@ -17487,7 +17505,6 @@
 ||mmg.aty.sohu.com^
 ||mms.deadspin.com^
 ||mms2017.admaster.com.cn^
-||mmstat.com^
 ||mnet-ad.net^
 ||mnetads.com^
 ||mnetads.net^
@@ -17928,7 +17945,6 @@
 ||na.ads.yahoo.com^
 ||na.o18.click^
 ||na.smartadserver.com^
-||na1r.services.adobe.com^
 ||na2m-pr.licenses.adobe.com^
 ||na61-na62-eu95.wagbridge.advertisement.tanx.com^
 ||na61-na62-st3.wagbridge.advertisement.tanx.com^
@@ -18118,7 +18134,6 @@
 ||newpappal2.interfoxprog.click^
 ||newpappal3.interfoxprog.click^
 ||news-flash.net^
-||news-l.play.aiseet.atianqi.com^
 ||news-l.play.cp81.ott.cibntv.net^
 ||news-l.play.ott.video.qq.com^
 ||news-polsk.click^
@@ -18893,7 +18908,6 @@
 ||ozonerexhaled.click^
 ||p-advg.com^
 ||p-analytics.life^
-||p-l.play.aiseet.atianqi.com^
 ||p-l.play.cp81.ott.cibntv.net^
 ||p.aaxads.com^
 ||p.ad.gt^
@@ -20888,7 +20902,6 @@
 ||retail-eu.productads.hlserve.com^
 ||retailads.net^
 ||retalom.click^
-||retcode.taobao.com^
 ||return-hypesquads.com^
 ||return.adsame.com^
 ||reuniongroup.click^
@@ -21477,7 +21490,6 @@
 ||savesunnas.click^
 ||saveu5-normal-lq.zijieapi.com^
 ||sax.sina.cn^
-||sax.sina.com.cn^
 ||sax.treespll.site^
 ||sax1.sina.com.cn^
 ||sax2.sina.com.cn^
@@ -21685,7 +21697,6 @@
 ||sdk3api.getui.com^
 ||sdkapi-smartop.jiguang.cn^
 ||sdkapi.dsp-api.moloco.com^
-||sdkapi.sms.mob.com^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
 ||sdkcfg.adintl.cn^
@@ -22485,7 +22496,6 @@
 ||soul-ad.soulapp.cn^
 ||souladv.com^
 ||soundcloud-pax.pandora.com^
-||soup.v.qq.com^
 ||source.advisible.com^
 ||sourcepoint.deadspin.com^
 ||southeosdk.space^
@@ -22500,9 +22510,7 @@
 ||sp.montgomeryadvertiser.com^
 ||sp.newarkadvocate.com^
 ||sp.theadvertiser.com^
-||sp0.baidu.com^
 ||sp1.baidu.com^
-||sp2.baidu.com^
 ||sp3.baidu.com^
 ||spaceframe.mobi.space-frame.co.za^
 ||spaceleadster.com^
@@ -24756,7 +24764,6 @@
 ||vcdn.tsyndicate.com^
 ||vcs.snssdk.com^
 ||vcs.zijieapi.com^
-||vd.l.qq.com^
 ||vdacon-pts.click^
 ||vdaconza.click^
 ||vdcom-za.click^
